@@ -1,16 +1,2091 @@
 {
-  "ASD":[
+  "Sirko":[
     {
       "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "img" : "Urna sírkő"
+    },
+    {
+      "id" : 1,
+      "img" : "Szimpla sírkő"
+    },
+    {
+      "id" : 2,
+      "img" : "Dupla sírkő"
+    },
+    {
+      "id" : 3,
+      "img" : "Kripta"
+    },
+    {
+      "id" : 4,
+      "img" : "Akciós sírkő"
+    },
+    {
+      "id" : 5,
+      "img" : "Márvány sírkő"
+    },
+    {
+      "id" : 6,
+      "img" : "Mészkő sírkő"
+    },
+    {
+      "id" : 7,
+      "img" : "Különleges sírkő"
+    },
+    {
+      "id" : 8,
+      "img" : "Sírkő kellékek"
+    },
+    {
+      "id" : 9,
+      "img" : "Sírfelirat"
+    },
+    {
+      "id" : 10,
+      "img" : "Kőváz"
+    },
+    {
+      "id" : 11,
+      "img" : "Kő mécsestartó"
+    },
+    {
+      "id" : 12,
+      "img" : "Kő virágtartó"
+    },
+    {
+      "id" : 13,
+      "img" : "Bronz sírkő kellékek"
+    },
+    {
+      "id" : 14,
+      "img" : "Sírkő készítés"
     }
   ],
-  "comments" : [
+  "Sirko-urna" : [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id" : 0,
+      "title" : "Urna sírkő 1. csoport",
+      "img" : "Urna sírkő 1. csoport"
+    },
+    {
+      "id" : 1,
+      "title" : "Urna sírkő 2. csoport",
+      "img" : "Urna sírkő 2. csoport"
+    },
+    {
+      "id" : 2,
+      "title" : "Urna sírkő 3. csoport",
+      "img" : "Urna sírkő 3. csoport"
+    },
+    {
+      "id" : 3,
+      "title" : "Urna sírkő 4. csoport",
+      "img" : "Urna sírkő 4. csoport"
+    }
+  ],
+  "Urna-1csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "U 32",
+      "title" : "gránit Tarn Claire",
+      "description" : "A burkolt járdaszegélyen 10 cm magasítás, rajta egy 5 cm vastag, nagy fedlap kapott helyet. A fedlapra, kis kivágást és egy süllyesztett vázát helyeztünk. Az emlék formája, régi tradíciókat elevenít fel. A világos gránitra fekete karakterek és kereszt került.",
+      "img" : "gránit Tarn Claire"
+    },
+    {
+      "id" : 1,
+      "title-id" : "U 33",
+      "title" : "gránit Nero Impala",
+      "description" : "Az egész síremlék letisztult minimál stílusban készült. A műkő járdaszegélyre 5 cm vastag nagy fedlap lett helyezve. Rajta kapott helyet egy virág motívum, és egy süllyesztett váza. Az emlék formája, régi tradíciókat elevenít fel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 2,
+      "title-id" : "U 71",
+      "title" : "gránit Aurora",
+      "description" : "A műkő járdaszegélyen 5x10 cm szegélykeret kapott helyet, ami nyitott. A lépcső és az emlék amorf és sprengelt. A fózolt váza külön kiemelést kapott. Természetes és naturalisztikus hatást kelt.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 3,
+      "title-id" : "U 61",
+      "title" : "mészkő Jura Gelb",
+      "description" : "A földre helyezett natur szikla az egyszerű tisztaságot, a természet közelségét és szeretetét sugározza.",
+      "img" : "mészkő Jura Gelb"
+    },
+    {
+      "id" : 4,
+      "title-id" : "U 1",
+      "title" : "gránit Tarn Claire",
+      "description" : "Az egész síremlék letisztult minimál stílusban készült. A burkolt járdaszegélyre 5 cm vastag nagy fedlap került. Az emlék egy álló hasáb, arany felirattal díszítve.",
+      "img" : "gránit Tarn Claire"
+    },
+    {
+      "id" : 5,
+      "title-id" : "U 5",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A műkő járdaszegélyen 10 cm-es magasítás, rajta 3 cm vastag, nagy fedlap kapott helyet.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 6,
+      "title-id" : "U 2",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Az egész síremlék letisztult, minimál stílusban készült. A műkő járdaszegélyen 5 cm vastag, nagy fedlap kapott helyet. Az emlék formája, régi tradíciókat elevenít fel.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 7,
+      "title-id" : "U 3",
+      "title" : "gránit Aurora",
+      "description" : "A műkő járdaszegélyen 5x10 cm szegélykeret kapott helyet, ami nyitott. A lépcső és az emlék amorf és sprengelt. Természetes és naturalisztikus hatást kelt.",
+      "img" : "gránit Aurora"
+    }
+  ],
+  "Urna-2csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "U 24",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Az 5 cm vastag, tömb fedlap közvetlenül a burkolt járdaszegélyre lett helyezve. Az emlék formája régi tradíciókat elevenít fel, felirata aranyozott.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 1,
+      "title-id" : "U 51",
+      "title" : "gránit Juparana Columbo",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap helyezkedik el. A sűllyesztett vázák gránit gyűrűből készültek. Az emlék élébe faragott, stilizált 'fa' felülete antikolt, a jobb vizuális hatás érdekében.",
+      "img" : "gránit Juparana Columbo"
+    },
+    {
+      "id" : 2,
+      "title-id" : "U 69",
+      "title" : "gránit Pannon Grün",
+      "description" : "Közvetlen a burkolt járdaszegélyen kapott helyet egy 5cm vastag tömb fedlap. Az emlék helyett egy naturisztikus oszlopot készítettünk, amin egy porcelán fénykép látható. Anyagából készítettünk egy süllyesztett vázát, a felirat a fedlapra került.",
+      "img" : "gránit Pannon Grün"
+    },
+    {
+      "id" : 3,
+      "title-id" : "U 8",
+      "title" : "gránit Verde Laguna",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 5 cm vastag, sprengelt, szakított oldalú, nagy fedlap kapott helyet. Az emlék formája naturális, ami tükröz némi természetességet.",
+      "img" : "gránit Verde Laguna"
+    },
+    {
+      "id" : 4,
+      "title-id" : "U 52",
+      "title" : "gránit Baltic Green",
+      "description" : "Közvetlen a burkolt járdaszegélyen kapott helyet egy 5 cm vastag, tömb fedlap. Az emlék formája, régi tradíciókat elevenít fel, a felirat aranyozott. A síremléket vésett aranyozott horgászbot díszíti, ami utal az elhunyt hobbijára.",
+      "img" : "gránit Baltic Green"
+    },
+    {
+      "id" : 5,
+      "title-id" : "U 27",
+      "title" : "gránit Juparana Columbo",
+      "description" : "A burkolt járdaszegélyre egy 10 cm magas álló szegélykeretet helyeztünk. A fedetlen rész élő virág beültetésére alkalmas. Az emlék egy un. 'fejpárna', amire bronz felirat került.",
+      "img" : "gránit Juparana Columbo"
+    },
+    {
+      "id" : 6,
+      "title-id" : "U 63",
+      "title" : "gránit Rosso Santiago",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, azon pedig egy 3 cm vastag, nagy fedlap került elhelyezésre. Az emlék két részből áll. Egy karcsúsított oszlopból és egy hozzá igazodó, enyhe ívű emlékből. A két kő szerves egységet képez.",
+      "img" : "gránit Rosso Santiago"
+    },
+    {
+      "id" : 7,
+      "title-id" : "U 65",
+      "title" : "gránit Rosso Santiago",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap kapott helyet. Az emléket kiemeli a kis lépcső. Az emlék formáját 'izgalmassá' teszik a faltz és a legyezők hullámzása.",
+      "img" : "gránit Rosso Santiago"
+    },
+    {
+      "id" : 8,
+      "title-id" : "U 66",
+      "title" : "gránit Rosso Santiago",
+      "description" : "A burkolt járdaszegélyen 10cm-es magasítás, rajta pedig egy 3 cm vastag, nagy fedlap kapott helyet. Az emléket kiemeli a kis lépcső.",
+      "img" : "gránit Rosso Santiago"
+    },
+    {
+      "id" : 9,
+      "title-id" : "U 7",
+      "title" : "gránit Verde San Francisco",
+      "description" : "A burkolt járdaszegélyre ferdére vágott tömb fedlapot helyeztünk. A fedlap végében hagyott platnin bronz kiegészítők kaptak helyet. Az emlék nélkül készült urna síremlék egyszerűségében magával ragadó.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 10,
+      "title-id" : "U 28",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A műkő járdaszegélyen 5x10 cm-es, nyitott, fekvő szegélykeret látható. A fedetlen rész élő virág beültetésére alkalmas. Az emléknek csak a teteje íves, hogy megtörje az egyenes síkok egyhangúságát.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 11,
+      "title-id" : "U 9",
+      "title" : "gránit Nero Impala",
+      "description" : "A nyitott, műkő járdaszegélyen egy 5 cm vastag, íves elejű fedlap látható, élő virágnak helyet hagyva. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 12,
+      "title-id" : "U 53",
+      "title" : "gránit Vizag Blue",
+      "description" : "A burkolt járdaszegélyen egy 10 cm magas, álló szegélykeret került elhelyezésre. A fedetlen rész élő virág beültetésére alkalmas. A minimál stílusú emléknek nem a formája különleges, hanem amit hordoz. Mary Zsuzsi síremléke.",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 13,
+      "title-id" : "U 55",
+      "title" : "gránit Halmstadt-Bararp",
+      "description" : "A teljesen fedett járdán csak egy szimbolikus nyitott könyv és egy fózolt gránit váza kapott helyet. A könyv lapjába beíródott filmszalag, sok mindent elárul.",
+      "img" : "gránit Halmstadt-Bararp"
+    },
+    {
+      "id" : 14,
+      "title-id" : "U 60",
+      "title" : "gránit Halmstadt-Bararp",
+      "description" : "A teljesen fedett járdán csak egy szimbolikus nyitott könyv és egy sülyesztett gránit váza kapott helyet. A nyitott könyv rendhagyó választás, erőteljes jelentéssel bír.",
+      "img" : "gránit Halmstadt-Bararp"
+    },
+    {
+      "id" : 15,
+      "title-id" : "U 4",
+      "title" : "gránit Verde Marina - Black Ebony",
+      "description" : "A burkolt járdaszegélyen 5 cm-es magasítás áll, rajta a 3 cm vastag, nagy fedlap. Az esztergált váza az alsó részre lett helyezve, hogy ne takarja az emléket. Az emlék, párhuzamos oldalakkal és hullámos, zászlós tetővel készült.",
+      "img" : "gránit Verde Marina - Black Ebony"
+    },
+    {
+      "id" : 16,
+      "title-id" : "U 45",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A burkolt járdaszegélyre egy ferdére vágott tömb fedlap került, melynek oldala sprengelt. A fedlap elejébe fúrt lyuk alkalmas kis váza elhelyezésére. Az emlék nélkül készült urna síremlék  egyszerű, letisztult.",
+      "img" : "gránit Rosso Vanga"
+    }
+  ],
+  "Urna-3csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "U 64",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A burkolt gránit járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a süllyesztett váza. Az emlékbe faragott gömbölyded tagozat, meghatározza az emlék karakteres formáját.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 1,
+      "title-id" : "U 50",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap. Az emlékbe faragott galamb elkészítése, szobrász tudást igényel.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 2,
+      "title-id" : "U 35",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A burkolt járdaszegélyen egy 6 cm vastag, íves elejű fedlap látható. A járdán hagyott ívben kapott helyet a süllyesztett váza. A nyitott könyv rendhagyó választás, erőteljes jelentéssel bír.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 3,
+      "title-id" : "U 70",
+      "title" : "gránit River White",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap kapott helyet. Az emléket kiemeli a kis lépcső. Az emlék formáját 'izgalmassá' teszik a faltz és a legyezők hullámzása.",
+      "img" : "gránit River White"
+    },
+    {
+      "id" : 4,
+      "title-id" : "U 75",
+      "title" : "gránit Aurora",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 5 cm vastag, élkerekített nagy fedlap. Az emlékbe faragott rózsa elkészítése szobrász tudást igényel.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 5,
+      "title-id" : "U 59",
+      "title" : "gránit Verde Laguna",
+      "description" : "A burkolt járdaszegélyre egy 10 cm magas szegélykeret került, amire egy 3 cm vastag, kis fedlapot helyeztünk. A gránitból készült, ívfózolt váza az alsó részen kapott helyet, hogy a virág ne takarja az emléket. Az emlék két darabból készült. A közöttük maradt formát látványosabbá teszi a mozgalmas fózni.",
+      "img" : "gránit Verde Laguna"
+    },
+    {
+      "id" : 6,
+      "title-id" : "U 56",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A burkolt járdaszegélyen áll a 10 cm-es magasítás, rajta a 3 cm vastag, nagy fedlap. A süllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. Az emlék formáját 'izgalmassá' teszi a falz és legyezők hullámzása, ami körbe öleli a formát.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 7,
+      "title-id" : "U 54",
+      "title" : "gránit River Gold",
+      "description" : "A  gránittal burkolt járdaszegélyen fekszik egy 7 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a bronz, süllyesztett váza. A fedlap 'könnyű' íveit követi az emlék, amire arany felirat került. Az oldalak un. sprengelt  technológiával készültek.",
+      "img" : "gránit River Gold"
+    },
+    {
+      "id" : 8,
+      "title-id" : "U 72",
+      "title" : "márvány Ruskicai",
+      "description" : "A burkolt járdaszegélyen a 10 cm-es magasítás, rajta a 3 cm vastag, nagy fedlap. Az anyagából elkészített 2 db sűllyesztett váza átlósan lett helyezve a fedlapon. Az emlék formáját a könnyed ívek és a nyers gömbölyded tagozatok teszik mozgalmassá.",
+      "img" : "márvány Ruskicai"
+    },
+    {
+      "id" : 9,
+      "title-id" : "U 58",
+      "title" : "gránit Nero Impala",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta a 3 cm vastag, nagy fedlap kapott helyet. A gránitból készült szögletes süllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. Az emlék formáját könnyed ívek alkotják, csak a nyers fózni teszi karakteressé.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 10,
+      "title-id" : "U 67",
+      "title" : "gránit Aurora",
+      "description" : "A burkolt járdaszegélyen a 10 cm-es magasítás, rajta a 3 cm vastag, nagy fedlap. A fózolt váza az alsó részre lett helyezve, hogy a váza és a virág ne takarja az emléket. Az emlék formáját a könnyed ívek és a nyers gömbölyded tagozatok teszik mozgalmassá.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 11,
+      "title-id" : "U 68",
+      "title" : "gránit River Gold",
+      "description" : "A burkolt járdaszegélyen fekszik a 10x5cm szegélykeret. A kisfedlapra helyezett gyűrű és betét, süllyesztett vázaként funkcionál. Az emlék, egy lépcsős nyers falcal készült, fekete karakterekkel és kereszttel. Az egész síremlék felülete anikolt, gyémántkefélt, ami ennél a gránitnál különleges felületet eredményez.",
+      "img" : "gránit River Gold"
+    },
+    {
+      "id" : 12,
+      "title-id" : "U 57",
+      "title" : "gránit Giallo Veneziano - Nero India",
+      "description" : "A gránit kontrasztja kiemeli a másik anyag színét. A burkolt járdaszegélyen 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap helyezkedik el. A sűllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. Az emlék két lap és két szín kombinációjával készült.",
+      "img" : "gránit Giallo Veneziano - Nero India"
+    },
+    {
+      "id" : 13,
+      "title-id" : "U 17",
+      "title" : "gránit Dalia Red",
+      "description" : "A tömb gránit járdaszegélyre  egy 5 cm vastag, íves elejű fedlapot helyeztünk. A bal alsó ívben kapott helyet a süllyesztett váza. A fedlap 'könnyű' íveit követi az emlék, amire arany felirat került.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 14,
+      "title-id" : "U 16",
+      "title" : "gránit Nero Impala",
+      "description" : "A burkolt járdaszegélyen 7 cm-es a magasítás, rajta 5 cm vastag szegélykeret és azon egy kis fedlap. Mindegyiknek a jobb eleje kerekítve van. Az emlék, egy lépcsős fényezett falccal készült, bronz karakterekkel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 15,
+      "title-id" : "U 6",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A ferdére vágott tömb fedlap közvetlenül a burkolt járdaszegélyre került. A fedlap végében hagyott platnira egy esztergált váza került elhelyezésre. Az emlék nélkül készült urna síremlék egyszerűségében magával ragadó.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 16,
+      "title-id" : "U 31",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás áll, rajta az 5 cm vastag, nagy fedlap, melynek az éle sprengelt. A lépcső és az emlék oldala is sprengelt. Természetes és naturalisztikus hatást kelt.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 17,
+      "title-id" : "U 34",
+      "title" : "gránit Kinawa Rose",
+      "description" : "A tömb gránit járdaszegélyen fekszik egy 6 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a süllyesztett, bronz váza. A fedlap 'könnyű' íveit követi az emlék, amire aranyozott karakterek kerültek.",
+      "img" : "gránit Kinawa Rose"
+    },
+    {
+      "id" : 18,
+      "title-id" : "U 37",
+      "title" : "gránit Paradiso Classico",
+      "description" : "A nyitott, gránittal burkolt járdaszegélyen egy 5 cm vastag, íves elejű fedlap került, az élő virágnak helyet hagyva. A pozitív és negatív ívekkel tervezett emléket díszíti még a faragott nyers falz. A portré lézergravírozó technológiával készült.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 19,
+      "title-id" : "U 39",
+      "title" : "gránit Nero Impala",
+      "description" : "A burkolt gránit járdaszegélyen egy 10 cm vastag, tömb fedlap helyezkedik el. A süllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. A szögletes fedlapra helyezett íves oldalú emlék eltérő stílusú, mégis harmóniát tükröz.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 20,
+      "title-id" : "U 41",
+      "title" : "gránit Nero Impala",
+      "description" : "A tömb gránit járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a süllyesztett váza. Az emlék formája, stilizált vitorlára emlékeztet, amit aranyozott betűk és szomorú fűz díszít.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 21,
+      "title-id" : "U 42",
+      "title" : "gránit Nero Impala",
+      "description" : "A gránittal burkolt járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a váza. A járdán hagyott ívben készült egy furat, ahová élő virágot lehet ültetni. A fedlap 'könnyű' íveit követi az emlék, amire arany felirat került.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 22,
+      "title-id" : "U 43",
+      "title" : "gránit Vizag Blue",
+      "description" : "A gránittal burkolt járdaszegélyen fekszik egy 6 cm vastag, íves elejű fedlap. A járdán hagyott ívben készült egy furat, ahová élő virágot lehet ültetni. A csúcsos emlék, kiemelkedik környezetéből.",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 23,
+      "title-id" : "U 10",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A burkolt járdaszegélyen fekszik az 5 cm-es szegélykeret. Az amorf emlék, fedlap és a lépcső oldala sprengelt. Természetes és naturalisztikus hatást kelt. A fózolt váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 24,
+      "title-id" : "U 46",
+      "title" : "gránit Verde Laguna",
+      "description" : "A burkolt járdaszegélyen áll a 10 cm-es magasítás, rajta a 3 cm vastag, nagy fedlap. A fózolt váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. Az emlék, két lépcsős, nyers falccal készült, ún. 'tulipános' formájú, relief motívumokkal.",
+      "img" : "gránit Verde Laguna"
+    },
+    {
+      "id" : 25,
+      "title-id" : "U 25",
+      "title" : "gránit Dalia Red",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta 3 cm vastag, nagy fedlap helyezkedik el. A süllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket. Az emlék minden oldala íves, hullámos, hogy megtörje az egyhangúságot.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 26,
+      "title-id" : "U 30",
+      "title" : "gránit Vizag Blue",
+      "description" : "A burkolt járdaszegélyen 6 cm vastag, íves elejű fedlap fekszik. A járdán hagyott ívben kapott helyet a süllyesztett váza. Az emlék, egy lépcsős, fényezett falccal készült, relief virág mintával és felirattal, amit kiemel a fehérített háttér",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 27,
+      "title-id" : "U 23",
+      "title" : "gránit Nero Impala",
+      "description" : "A burkolt járdaszegélyen 10 cm-es magasítás, rajta 5 cm vastag, nagy fedlap található. A süllyesztett váza az alsó részre lett helyezve, hogy a virág ne takarja az emléket, mely két lépcsős, nyers falccal készült, ún. 'tulipános' formájú, relief motívumokkal.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 28,
+      "title-id" : "U 12",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A tömb gránit járdaszegélyen egy 5 cm vastag, íves elejű fedlap látható. A bal alsó ívben kapott helyet a váza. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 29,
+      "title-id" : "U 15",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A tömb gránit járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a váza. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 30,
+      "title-id" : "U 21",
+      "title" : "gránit Juparana Columbo",
+      "description" : "A burkolt járdaszegélyen 7 cm-es magasítás, rajta az 5 cm vastag, nagy, fedlap, melynek az éle sprengelt. Egy elektromos bronz mécses látható a fedlapon, ami elemmel működik. A csúcsos emlék, kiemelkedik környezetéből.",
+      "img" : "gránit Juparana Columbo"
+    },
+    {
+      "id" : 31,
+      "title-id" : "U 62",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A  gránittal burkolt járdaszegélyen fekszik egy 10 cm vastag, íves elejű fedlap. A járdán hagyott ívbe helyeztük a vázát. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került. Az oldalak un. sprengelt  technológiával készültek.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 32,
+      "title-id" : "U 38",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A tömb gránit járdaszegélyt egy 5 cm vastag, íves elejű fedlap díszíti. A bal alsó ívben kapott helyet a süllyesztett váza. Az emlék, egy lépcsős, nyers falccal készült, írott arany karakterekkel.",
+      "img" : "gránit Rosso Vanga"
+    }
+  ],
+  "Urna-4csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "U 48",
+      "title" : "gránit Halmstadt - Nero India",
+      "description" : "A két szín kombinációja kiemeli az anyagok kontrasztját. A burkolt járdaszegélyen 12 cm-es a magasítás. A két fedlap hosszú élei gömbölyítettek, egymáshoz képest más magasságban végződnek. A lépcsőbe ezt a szinteltolás bemartuk. Az emlék 2 részét egymásba integráltuk, éleiket gömbölyítettük. A fekete gránitba készített lézergravírozás jól látható a fekete-fehér kontraszt miatt.",
+      "img" : "gránit Halmstadt - Nero India"
+    },
+    {
+      "id" : 1,
+      "title-id" : "U 49",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A nyitott, gránittal burkolt járdaszegélyen fekszik egy 6 cm vastag, íves elejű fedlap, élő virágnak helyet hagyva. A szív alakú emlék és a kiegészítő lépcső formája, harmóniában van a fedlappal. Az oldalak azonos megmunkálással készültek.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 2,
+      "title-id" : "U 74",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A burkolt járdaszegélyen áll a 10 cm-es magasítás, rajta egy 3 cm vastag, nagy fedlap. A lépcsőn lévő emlék formája klasszikus timpanonos, esztergált oszlopokkal és prizmás tetővel.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 3,
+      "title-id" : "U 22",
+      "title" : "mészkő Aurora - Nero India",
+      "description" : "A két szín kombinációja kiemeli az anyagok kontrasztját. A burkolt járdaszegélyen 12 cm-es a  magasítás. A két fedlap hosszú élei gömbölyítettek, egymáshoz képest más magasságban végződnek. A lépcsőbe ez a szint eltolás be van marva. Az emlék két daradját egymásba  integráltuk, éleiket gömbölyítettük.",
+      "img" : "mészkő Aurora - Nero India"
+    },
+    {
+      "id" : 4,
+      "title-id" : "U 20",
+      "title" : "gránit Verde San Francisco",
+      "description" : "A tömb gránit járdaszegélyen egy nyitott szegélykeret, azon egy 5 cm vastag, íves elejű fedlap helyezkedik el. A nyitva hagyott rész alkalmas élő virág beültetésére. A csúcsos emlék kiemelkedő részébe lett gravírozva egy sportrepülő.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 5,
+      "title-id" : "U 76",
+      "title" : "gránit Shiwakashi",
+      "description" : "A tömb gránit járdaszegélyen egy nyitott szegélykeret, azon egy 5 cm vastag, íves elejű fedlap látható. A nyitva hagyott rész, alkalmas élő virág beültetésére. A szív alakú emlék és a kiegészítő lépcső formája, harmóniában van a fedlappal. Az oldalak azonos megmunkálással készültek.",
+      "img" : "gránit Shiwakashi"
+    },
+    {
+      "id" : 6,
+      "title-id" : "U 40",
+      "title" : "gránit Paradiso Classico",
+      "description" : "A tömb gránit járdaszegélyen egy nyitott szegélykeret, azon egy 5 cm vastag, íves elejű fedlap kapott helyet. A nyitva hagyott rész alkalmas élő virág beültetésére. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 7,
+      "title-id" : "U 47",
+      "title" : "gránit Kinawa Rose",
+      "description" : "A tömb gránit járdaszegélyen egy nyitott szegélykeret, azon egy 5 cm vastag, íves elejű fedlap látható. A nyitva hagyott rész, alkalmas élő virág beültetésére. Az emlék két lépcsős, nyers falccal készült, ún. 'tulipános' formájú, arany karakterekkel.",
+      "img" : "gránit Kinawa Rose"
+    },
+    {
+      "id" : 8,
+      "title-id" : "U 73",
+      "title" : "márvány Ruskicai",
+      "description" : "A nyitott, gránittal burkolt járdaszegélyen fekszik egy 10 cm vastag, íves elejű fedlap. A szív alakú emlék és a kiegészítő lépcső formája, harmóniában van a fedlappal. A kiegészítő lapon látható márványból készült sűllyesztett váza. Az oldalak azonos megmunkálással készültek.",
+      "img" : "márvány Ruskicai"
+    },
+    {
+      "id" : 9,
+      "title-id" : "U 11",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A burkolt járdaszegélyen 5 cm-es magasítás, rajta a 6 cm vastag, nagy fedlap kapott helyet. A süllyesztett vázát az alsó részre helyeztük, hogy a virág ne takarja az emléket, melynek formáját kiemeli a nyers, faragott legyező.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 10,
+      "title-id" : "U 26",
+      "title" : "gránit Olive Green",
+      "description" : "A nyitott, gránittal burkolt járdaszegélyre egy 10 cm vastag, íves elejű fedlap került, élő virágnak helyet hagyva. Az emlék hasonlít a 'zászlós' formára, de egy kicsit mozgalmasabbá tettük egy negatív ívvel.",
+      "img" : "gránit Olive Green"
+    },
+    {
+      "id" : 11,
+      "title-id" : "U 36",
+      "title" : "gránit Labrador Black",
+      "description" : "A burkolt járdaszegélyen áll a 10 cm-es magasítás, rajta egy 5 cm vastag, nagy fedlap. Az emlék két lépcsős, nyers falccal készült, ún. 'tulipános' formájú, relief karakterekkel.",
+      "img" : "gránit Labrador Black"
+    },
+    {
+      "id" : 12,
+      "title-id" : "U 14",
+      "title" : "gránit Dalia Red",
+      "description" : "Az alsó járda nyújtott, hogy több élő virágot lehessen beleültetni. A felső járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A járdán hagyott ívben kapott helyet egy esztergált váza. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 13,
+      "title-id" : "U 19",
+      "title" : "gránit Brazulite Sucuru",
+      "description" : "A tömb gránit járdaszegélyen fekszik egy nyitott szegélykeret, azon egy 5 cm vastag, íves elejű fedlap. A nyitva hagyott rész alkalmas élő virág beültetésére. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Brazulite Sucuru"
+    },
+    {
+      "id" : 14,
+      "title-id" : "U 18",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A tömb gránit járdaszegélyre egy 5 cm vastag, íves elejű fedlapot helyeztünk el. A bal alsó ívben kapott helyet a bronz, süllyesztett váza. A fedlap 'könnyű' íveit követi az emlék, amire bronz felirat került.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 15,
+      "title-id" : "U 29",
+      "title" : "gránit Royal Mahogany",
+      "description" : "A tömb gránit járdaszegélyen 10 cm vastag, íves elejű fedlap fekszik . A bal alsó ívben kapott helyet a süllyesztett váza. Az emlék formája, régi tradíciókat elevenít fel.",
+      "img" : "gránit Royal Mahogany"
+    },
+    {
+      "id" : 16,
+      "title-id" : "U 13",
+      "title" : "gránit Verde San Francisco",
+      "description" : "A tömb gránit járdaszegélyen egy 7 cm vastag fedlap kapott helyet, amire ráhelyeztük az emléket. A két kő formailag szinte azonos, a profilja félkörívesen gömbölyített. A cél az volt, hogy kavicsra emlékeztessen.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 17,
+      "title-id" : "U 44",
+      "title" : "gránit Olive Green",
+      "description" : "A gránittal burkolt járdaszegélyen fekszik egy 5 cm vastag, íves elejű fedlap. A bal alsó ívben kapott helyet a váza. A járdán hagyott ívben készült egy furat, ahová élő virágot lehet ültetni. Az emlék, egy lépcsős nyers falccal készült, írott arany karakterekkel és kereszttel.",
+      "img" : "gránit Olive Green"
+    }
+  ],
+  "Sirko-szimpla" : [
+    {
+      "id" : 0,
+      "title" : "Szimpla sírkő 1. csoport",
+      "img" : "Szimpla sírkő 1. csoport"
+    },
+    {
+      "id" : 1,
+      "title" : "Szimpla sírkő 2. csoport",
+      "img" : "Szimpla sírkő 2. csoport"
+    },
+    {
+      "id" : 2,
+      "title" : "Szimpla sírkő 3. csoport",
+      "img" : "Szimpla sírkő 3. csoport"
+    },
+    {
+      "id" : 3,
+      "title" : "Szimpla sírkő 4. csoport",
+      "img" : "Szimpla sírkő 4. csoport"
+    }
+  ],
+  "Szimpla-1csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "121",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre 18 cm-es magasítás került. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza található. A 10 cm magas lépcsőre, hullámos alakú emlék készült, díszfaragással, bronz felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 1,
+      "title-id" : "96",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre egy 20 cm magas és 10 cm vastag, álló szegély készült. Teljesen nyitott sírkőnél a 10 cm-es vastagság szükséges, mert a benne lévő nagy föld mennyiség télen eltöri a vékonyabb falat. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék került, arany felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 2,
+      "title-id" : "114",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es magasítás látható. A tömör tömb nagy fedlapon (3 cm vastag) vágott virág vázabetétjének két kiemelő lap készült furattal. A 10 cm magas lépcsőre, hullámos alakú emléket helyeztünk, stilizált gyertya láng díszítéssel, arany felirattal és porcelán fényképpel.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 3,
+      "title-id" : "129",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A keretet lezáró fedlap (3cm vtg.) közepén lévő kivágás alkalmas élő virág ültetésére. A vágott virágnak süllyesztett vázát alkalmaztunk. A lépcsőre került egy dúsan faragott emlék, melynek élébe faragott stilizált 'fa' került, aminek a felülete antikolva van a jobb vizuális hatás érdekében.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 4,
+      "title-id" : "92",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es magasítás, a tömör tömb nagy fedlapon mely 3 cm vastag, egy süllyesztett bronz váza került. A 10 cm magas lépcsőre, trapéz alakú emlék látható, minimal stílusban, arany felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 5,
+      "title-id" : "115",
+      "title" : "gránit Vizag Blue",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapra (3 cm vastag) süllyesztett bronz váza valamint emlékként egy nyitott könyv került döntött konzollal, arany felirattal és kereszttel.",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 6,
+      "title-id" : "85",
+      "title" : "gránit Giallo Santa Cecilia",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapot (3 cm vastag) egy bronz virág díszíti. A fedlapra helyezett 'fejpárnára' kerül a felirat, mely lehet bronz vagy natúr karakterű.",
+      "img" : "gránit Giallo Santa Cecilia"
+    },
+    {
+      "id" : 7,
+      "title-id" : "74",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "Mobil (bontható) alapozásra 15cm-es, földbe süllyesztett szegélykeret került. A ferdére vágott fedlapra (3cm vastag) süllyesztett bronz váza és növény beületésre alkalmas kialakítás készült. A trapéz alakú emlék minimál stílusú, bronz felirattal.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 8,
+      "title-id" : "69",
+      "title" : "gránit Juparana Columbo",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) lévő furat vágott virág vázabetétjének elhelyezésére szolgál. A fedlapon felirattal ellátott 'fejpárna' látható, mely lehet bronz vagy natúr karakterű.",
+      "img" : "gránit Juparana Columbo"
+    },
+    {
+      "id" : 9,
+      "title-id" : "135",
+      "title" : "gránit Rosso Vanga",
+      "description" : "A zöld növényzetet meghagyva, csak egy álló szikla formájú emléket készítettünk 'amerikai síremlék' mintára.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 10,
+      "title-id" : "4",
+      "title" : "gránit Dalia Red",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) lévő furat vágott virág vázabetétjének elhelyezésére szolgál. A fedlapon felirattal ellátott 'fejpárna' látható, mely lehet bronz vagy natúr karakterű.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 11,
+      "title-id" : "97",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es magasítás látható. A fedlapon (3 cm vastag) kiegészítő lap és azon furat, vágott virág vázabetétje számára. A bal alsó sarkában lévő kis kivágással fa beültetését tettük lehetővé. A 10 cm magas lépcsőre, hullámos alakú emlék készült, bronz felirattal és kereszttel.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 12,
+      "title-id" : "2",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) süllyesztett bronz váza. Lépcső lapra helyeztük a 'fejpárnát', amire felirat került. Javasolt a bronz vagy natúr karakter.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 13,
+      "title-id" : "94",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) süllyesztett bronz váza látható. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, arany felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 14,
+      "title-id" : "98",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre gránit burkolat és 15 cm-es magasítás került. A (3 cm vastag) fedlapon lévő szögletes kivágásba élő virág, az esztergált vázába vágott virág helyezhető. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, szakított 'sprengelt' oldallal, relief felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 15,
+      "title-id" : "124",
+      "title" : "gránit Verde Marina",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es magasítás látható. A tömör tömb nagy fedlapot, mely 3cm vastag, egy süllyesztett bronz váza díszíti. A 10 cm magas lépcsőre, hullámos alakú emlék készült, nyers lépcsős faltzzal, arany felirattal.",
+      "img" : "gránit Verde Marina"
+    },
+    {
+      "id" : 16,
+      "title-id" : "3",
+      "title" : "gránit Dalia Red",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 15 cm a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) lévő 2 furat vágott virág vázabetétjének elhelyezésére szolgál. A fedlapra helyeztük a 'fejpárnát', amire felirat került, mely lehet bronz vagy natúr karakterű.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 17,
+      "title-id" : "T1",
+      "title" : "rajz minta",
+      "description" : "A képen látható rajz a legegyszerűbb szerkezetű és legköltséghatékonyabb síremléket ábrázolja. Nincs alatta járdaszegély, csak beton áthidaló gerenda, ami alapként szolgál.",
+      "img" : "rajz minta"
+    },
+    {
+      "id" : 18,
+      "title-id" : "T2",
+      "title" : "rajz minta",
+      "description" : "A képen látható rajz a legegyszerűbb szerkezetű és legköltséghatékonyabb fejpárnás síremléket ábrázolja. Nincs alatta járdaszegély, csak beton áthidaló gerenda, ami alapként szolgál.",
+      "img" : "rajz minta"
+    }
+  ],
+  "Szimpla-2csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "138",
+      "title" : "mészkő Carpinis",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegélyen gránit burkolat és 20 cm magas, 10 cm vastag, nyitott szegélykeret van. Ez a vastagság azért szükséges, hogy a benne lévő nagy föld mennyiség fagyáskor ne törje el. A 10 cm vastag lépcső és az emlék amorf, sziklára emlékeztető formát kaptak.",
+      "img" : "mészkő Carpinis"
+    },
+    {
+      "id" : 1,
+      "title-id" : "31",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy nyitott könyv, kiemelő konzollal és egy süllyesztett bronz váza található. A 10 cm magas lépcsőre, hullámos, csúcsos alakú emlék készült, relief felirattal és kereszttel.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 2,
+      "title-id" : "91",
+      "title" : "mészkő Jura Gelb",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 10 cm-es magasítás található a fedlap alatt. Az alsó részt, nyers szikla formájú tömbök zárják. A fedlap ívesre faragott, hogy körül öleljen egy virágos kertet, amit egy natúr faragott váza díszít. A lépcső és az emlékek amorf, sziklára emlékeztető formát kaptak.",
+      "img" : "mészkő Jura Gelb"
+    },
+    {
+      "id" : 3,
+      "title-id" : "13",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es magasítás. A tömör tömb nagy fedlapon (3 cm vastag) süllyesztett bronz váza. A 10 cm magas lépcsőre, hullámos tetejű, 'lapozott könyv' alakú emlék készült, arany felirattal.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 4,
+      "title-id" : "15",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag) egy süllyesztett bronz váza került elhelyezésre. Az emlék formája egy stilizált ovális tükör, szimmetrikus gallérral.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 5,
+      "title-id" : "149",
+      "title" : "gránit Multicolor Rosso",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegély gránit burkolatú és 20 cm-es magasítású. A tömör tömb nagy fedlapon (3 cm vastag). Az emlék élébe antikolt, stilizált 'fa' képét faragtuk, a szugesztívebb vizuális hatás eléréséért.",
+      "img" : "gránit Multicolor Rosso"
+    },
+    {
+      "id" : 6,
+      "title-id" : "142",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es magasítás. A tömör tömb nagy fedlapon (3 cm vastag) süllyesztett bronz váza. A 10 cm magas lépcsőre, hullámos alakú emlék készült, domború dísz faragással és arany felirattal.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 7,
+      "title-id" : "88",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 20 cm-es a magasítás. A tömör tömb nagy fedlap (3 cm vastag) felületén egy ovális lyukkivágás és egy süllyesztett bronz váza található. Az emlék formája egy stilizált ovális tükör, aszimmetrikus gallérral.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 8,
+      "title-id" : "76",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolat és 18 cm-es magasítás került. A tömör tömb nagy fedlapon (3 cm vastag) két átlósan elhelyezett süllyesztett bronz váza látható. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, arany felirattal és fehér virággal.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 9,
+      "title-id" : "5",
+      "title" : "gránit Aurora",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (6 cm vastag) egy süllyesztett bronz váza található. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, arany felirattal.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 10,
+      "title-id" : "150",
+      "title" : "mészkő Jura Gelb",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen van egy 20 x 10 cm keresztmetszetű sprengelt, faragott álló szegély. 5 cm vastag, szakított élű, szimmetrikusan ívelt fazonú fedlapot tettünk a szegélyre. 10 cm-es vastagságú szegély szükséges, mert a benne lévő nagy föld mennyiség télen eltöri a vékonyabb falat. A 10 cm magas, faragott lépcsőre amorf formájú, szakított emlékmű került.",
+      "img" : "mészkő Jura Gelb"
+    },
+    {
+      "id" : 11,
+      "title-id" : "127",
+      "title" : "gránit Giallo Veneziano",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás. A keretet lezáró fedlap (3cm vtg.) közepén lévő kivágás alkalmas élő virág ültetésére. A 10cm vtg. Fekete gránit lépcsőre került emlék homlok lapjára fekete lapot helyeztünk, ami követi a mögötte lévő formát.",
+      "img" : "gránit Giallo Veneziano"
+    },
+    {
+      "id" : 12,
+      "title-id" : "37",
+      "title" : "gránit Dalia Red",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag) egy nyers felület marás és egy süllyesztett bronz váza került elhelyezésre. A vitorlára emlékeztető emléken a világos rész, nyers díszfaragás.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 13,
+      "title-id" : "9",
+      "title" : "gránit Verde Tropical",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre egy 20 cm és egy 10 cm vastag álló szegély készült. Teljesen nyitott sírkőnél a 10 cm-es vastagság szükséges, mert a benne lévő nagy föld mennyiség télen eltöri a vékonyabb falat. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, relief felirattal.",
+      "img" : "gránit Verde Tropical"
+    },
+    {
+      "id" : 14,
+      "title-id" : "151",
+      "title" : "mészkő Jura Gelb",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 12 cm-es magasítás van a 10 cm vastag fedlap alatt. Az alsó részt nyers szikla formájú tömbök zárják. A fedlap íves faragású, ezáltal szinte körül öleli a virág kertet, melyben egy natúr faragott váza is helyet kapott. A lépcső és az emlékek amorf, sziklára emlékeztető formát nyert el.",
+      "img" : "mészkő Jura Gelb"
+    },
+    {
+      "id" : 15,
+      "title-id" : "12",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza került elhelyezésre. Az emlék szögletes formájából hiányzó korongot, a fejkő elé tettük, a kis ültetős kerttől balra.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 16,
+      "title-id" : "46",
+      "title" : "gránit Copacabana",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolat és 18 cm-es magasítás került. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza látható. A 10 cm magas lépcsőre, félköríves alakú, /Mózes kő/ emléket állítottunk, arany felirattal.",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 17,
+      "title-id" : "65",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapot (3 cm vastag) egy ovális lyukkivágás és egy fózolt váza díszíti. A 10 cm magas lépcsőre, félköríves alakú /Mózes kő/ emlék készült, arany felirattal.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 18,
+      "title-id" : "82",
+      "title" : "gránit Olive Green",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 20 cm-es a magasítás. A tömör tömb nagy fedlapon, mely 3 cm vastag, egy süllyesztett bronz váza került elhelyezésre. Az emlék formája stilizált vitorlára emlékeztet.",
+      "img" : "gránit Olive Green"
+    },
+    {
+      "id" : 19,
+      "title-id" : "99",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag) lévő emlék kereszt formáját mart, követő árnyék és egy süllyesztett bronz váza díszíti. Az emlék egy darabból készült, faragott és fényezett felületek kontrasztjának felhasználásával és a kereszt dominanciájával.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 20,
+      "title-id" : "95",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre gránit burkolat és 18 cm-es magasítás került. A tömör tömb nagy fedlapot (3 cm vastag) egy ovális lyukkivágás és két süllyesztett bronz váza díszíti. A 10 cm magas lépcsőre amorf formájú, szakított, sprengelt élű emlék készült, arany felirattal.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 21,
+      "title-id" : "90",
+      "title" : "mészkő Jura Gelb",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 10 cm-es a magasítás a fedlap alatt. Az alsó részt nyers szikla formájú tömbök zárják. A fedlap íves faragású, ezáltal szinte körül öleli a virág kertet, melyben egy natúr faragott váza is helyet kapott. A lépcső és az emlékek amorf, sziklára emlékeztető formát nyert el.",
+      "img" : "mészkő Jura Gelb"
+    },
+    {
+      "id" : 22,
+      "title-id" : "10",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 15 cm magas és 10 cm vastag a nyitott szegélykeret. Erre a vastagsága azért szükséges, hogy a benne lévő nagy földmennyiség, fagyáskor ne törje el. A 10 cm magas lépcső eleje íves, formailag hasonul az emlékhez. A kör alakú emlék szerves része az ívelt élű fekete gránit kereszt.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 23,
+      "title-id" : "17",
+      "title" : "gránit Dalia Red",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz vázakapott helyet. A 10 cm magas lépcsőre, hullámos, gömbölyített oldalú /Wellenfelsen/ emléket állítottunk, bronz felirattal.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 24,
+      "title-id" : "1",
+      "title" : "gránit Verde Lavras",
+      "description" : "Mobil (bontható) alapozáson lévő, 15 cm magas nyitott szegélykeret, a földbe lett süllyesztve. Kívülről és belülről egyformán kapja a nyomást, és így nem törhet el. A 10 cm magas lépcsőre, hullámos, gömbölyített oldalú /Wellenfelsen/ emlék készült, bronz felirattal.",
+      "img" : "gránit Verde Lavras"
+    },
+    {
+      "id" : 25,
+      "title-id" : "6",
+      "title" : "gránit Blue Orissa",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy nyers, fózolt vágott virág váza került elhelyezésre. A 10 cm magas lépcsőre félköríves alakú /Mózes kő/ emléket helyeztünk el, arany felirattal.",
+      "img" : "gránit Blue Orissa"
+    },
+    {
+      "id" : 26,
+      "title-id" : "11",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag éle szakított, sprengelt) egy ovális lyukkivágás és egy süllyesztett bronz váza kapott helyet. Az emlék egy tömb keresztből, és egy sprengelt élű részből áll, amelyre bronz felirat került.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 27,
+      "title-id" : "14",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza került elhelyezésre. A 10 cm magas lépcsőre hullámos, 'zászlós' alakú emlék készült, arany felirattal és kereszttel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 28,
+      "title-id" : "18",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy ovális lyukkivágás és egy süllyesztett bronz váza látható. A 10 cm magas lépcsőre, hullámos, csúcsos alakú emlék készült, arany felirattal.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 29,
+      "title-id" : "19",
+      "title" : "gránit Dalia Red",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapot (3 cm vastag) egy süllyesztett bronz váza díszíti. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, bronz felirattal és kereszttel.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 30,
+      "title-id" : "70",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "Mobil (bontható) alapozáson 15 cm magas, szakított, sprengelt oldalú, nyitott szegélykeret a földbe lett süllyesztve. Kívülről és belülről egyformán kapja a nyomást, és így nem törhet el. A 10 cm magas lépcsőre került egy szakított oldalú sziklás naturisztikus emlék.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 31,
+      "title-id" : "86",
+      "title" : "gránit Labrador Blue Extra",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 15 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza kapott helyet. A fedlapra helyeztük a 'fejpárnát', amire a felirat került. Javasolt a bronz vagy a natúr karakter.",
+      "img" : "gránit Labrador Blue Extra"
+    },
+    {
+      "id" : 32,
+      "title-id" : "102",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy lyukkivágás, gránit mécsestartó és egy bronz süllyesztett váza kapott helyet. A 10 cm magas lépcsőre, nyers falzú, 'tulipán' formájú emlék készült, amibe egy Tiffany üveg került beépítésre.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 33,
+      "title-id" : "100",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) íves felületmarás és ovális lyukkivágás került elhelyezésre. A sprengelt élű emlék két részét egymással szembe fordítottuk, majd eléjük, kiegészítőként, kis lépcsőt helyeztünk.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 34,
+      "title-id" : "16",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza látható. A 10 cm magas lépcsőre, szimmetrikus, hullámos tetejű, 'stilizált nyitott könyv' alakú emlék készült, arany felirattal.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 35,
+      "title-id" : "93",
+      "title" : "gránit Kinawa Rose",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre gránit burkolat és 18 cm-es magasítás került. A tömör tömb nagy fedlapon (3 cm vastag) egy ovális lyukkivágás és két süllyesztett bronz váza kapott helyet. A 10 cm magas lépcsőre, amorf formájú, szakított, sprengelt élű emlék készült, arany felirattal.",
+      "img" : "gránit Kinawa Rose"
+    },
+    {
+      "id" : 36,
+      "title-id" : "7",
+      "title" : "gránit Amadeus",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapot (3 cm vastag) egy süllyesztett bronz váza díszíti. Az emlék két részét egymással szembe fordítottuk, majd eléjük, kiegészítőként, kis lépcsőt helyeztünk.",
+      "img" : "gránit Amadeus"
+    },
+    {
+      "id" : 37,
+      "title-id" : "68",
+      "title" : "gránit Tarn Claire - Nero Impala",
+      "description" : "Mobil alapozással készült műkő járdaszegélyen 25 cm-es a magasítás. A tömör tömb nagy fedlapon, mely 3 cm vastag, egy ovális lyukkivágás valamint két süllyesztett bronz váza látható. A kör alakú emlék mely két szín kombinációjából jött létre, szerves része az ívelt szélű, színkontraszttal kiemelt, sötét szürke anyagú kereszt.",
+      "img" : "gránit Tarn Claire - Nero Impala"
+    },
+    {
+      "id" : 38,
+      "title-id" : "44",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolatú és 18 cm-es magasítású. A tömör tömb nagy fedlapra (3 cm vastag) több, eltérő színű lapot helyeztünk, lépcsős elrendezéssel. A síremléket a színek konrtasztja teszi egyedivé. Az emlék formája követi a fedlapon lévő díszítést.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 39,
+      "title-id" : "123",
+      "title" : "gránit Verde Marina",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy fózolt, gránit váza látható. A 10 cm magas lépcsőre, nyers falcú, hullámos tetejű emlék került, arany felirattal és kereszttel.",
+      "img" : "gránit Verde Marina"
+    },
+    {
+      "id" : 40,
+      "title-id" : "77",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolattal és 15 cm-es magasítással készült. A tömör tömb nagy fedlapon (3 cm vastag) egy süllyesztett bronz váza kapott helyet. A 10 cm magas lépcsőre, fényezett falcú, 'tulipán' formájú emlék került, arany felirattal.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 41,
+      "title-id" : "131",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 10cm magas magasítás. A redhagyó formájú fedlapok ívei némileg tükrözik egymást, amitől az élére állított lap is szerves része tud lenni a kompozíciónak.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 42,
+      "title-id" : "8",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm-es és 10 cm vastag a nyitott szegélykeret. Ez a vastagság azért szükséges, hogy a benne lévő, nagy földmennyiség, fagyáskor ne törje el. A 10 cm magas lépcsőre, szív alakú emlék készült, tartó konzollal, relief felirattal.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 43,
+      "title-id" : "130",
+      "title" : "márvány Ruskicai",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van márvány burkolat és 18cm magas magasítás. A keretet lezáró fedlap (6cm vtg.) széle szakított, sprengelt, rusztikus Az alsó és felső lépcső, a vázák és az emlék éle is rusztikusra faragott, hogy a természetességet tükrözze minél hatásosabban.",
+      "img" : "márvány Ruskicai"
+    }
+  ],
+  "Szimpla-3csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "136",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A legendás Komár Laci síremlékének tervezésekor a legfontosabb szempont az anyag tisztasága volt Egyszerű, letisztult és fekete, ami a kedvenc színe volt. A gravírozott motívum mintájául egy koncerten készült legendás fotó szolgált.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 1,
+      "title-id" : "25",
+      "title" : "gránit Brazulite Suculu",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 18 cm magasítás kapott helyet. A tömör tömb nagy fedlapra (5 cm vastag) egy esztergált gránit váza került. Az emlék hullámos tetejű, 'lapozott könyv' alakú, melyre mély dombormű faragással készült a festett virág motívum.",
+      "img" : "gránit Brazulite Suculu"
+    },
+    {
+      "id" : 2,
+      "title-id" : "116",
+      "title" : "gránit Pannon Grün",
+      "description" : "A mobil (bontható) alapozású műkő járdaszegélygránit burkolatú és 20 cm-es magasítású. Az 5 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A 10 cm magas, íves lépcsőre került a két darabból álló emlék. Az élek gömbölyítettek, felületük homorú, a kettő közti posztamensbe építettük a süllyesztett bronz vázát.",
+      "img" : "gránit Pannon Grün"
+    },
+    {
+      "id" : 3,
+      "title-id" : "125",
+      "title" : "gránit Aurora",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegély gránit burkolatú és 20 cm-es magasítású. A tömör tömb nagy fedlapon (3 cm vastag), az ovális lyukkivágás élő virágok beültetésére szolgál. Az emlék élébe antikolt, stilizált 'fa' képét faragtuk, a szugesztívebb vizuális hatás eléréséért.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 4,
+      "title-id" : "119",
+      "title" : "gránit Aurora",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegélyen gránit burkolat és 20 cm magas, 10 cm vastag, nyitott szegélykeret van. Ez a vastagság azért szükséges, hogy a benne lévő nagy föld mennyiség fagyáskor ne törje el. A 10 cm magas lépcsőre hullámos alakú emlék készült, domború dísz faragással, arany felirattal és kereszttel.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 5,
+      "title-id" : "87",
+      "title" : "gránit Giallo Santa Cecilia",
+      "description" : "Bontható alapozással készült műkő járdaszegélyen gránit burkolat és 10 cm-es magasítás van. A tömör tömb fedlapon (10 cm vastag) egy körcikk alakú kivágás látható, melynek formája tükröződik az emlék előtt lévő díszben. A két szín kombinációja megtöri az egyhangúságot. A minimál stílusú emlékre modern bronz plasztika került.",
+      "img" : "gránit Giallo Santa Cecilia"
+    },
+    {
+      "id" : 6,
+      "title-id" : "117",
+      "title" : "gránit Pannon Grün",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag) lévő kivágás élővirág beültetését teszi lehetővé, míg a fózolt, gránit váza vágott vírágoknak ad helyet. A 10 cm magas lépcsőre, hullámos alakú emlék készült, domború dísz faragással és arany felirattal.",
+      "img" : "gránit Pannon Grün"
+    },
+    {
+      "id" : 7,
+      "title-id" : "148",
+      "title" : "gránit Shivakashi",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre 12 cm-es magasítás került. A tömör tömb nagy fedlap (10 cm vastag) éle szakított. A süllyesztett bronz váza ki lett emelve egy faragott kockával. A 10 cm magas lépcsőre amorf formájú, szakított, sprengelt élű emlék készült, bordó felirattal.",
+      "img" : "gránit Shivakashi"
+    },
+    {
+      "id" : 8,
+      "title-id" : "80",
+      "title" : "gránit Verde Eucalipto - Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 18 cm-es magasítás került. A tömör tömb nagy fedlap (3 cm vastag) és az emlék két szín kombinációjával készült, mely kiemeli a világos zöld anyagot. A 10 cm magas lépcsőre, dőlt keresztes formájú emlék készült, relief felirattal. Előtte süllyesztett bronz váza látható.",
+      "img" : "gránit Verde Eucalipto - Impala"
+    },
+    {
+      "id" : 9,
+      "title-id" : "107",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 25 cm-es a magasítás. A tömör tömb nagy fedlapon (3 cm vastag) egy ovális lyukkivágás és egy süllyesztett bronz váza látható. A 10 cm magas lépcsőre, nyers falccal és domború tagozattal díszített emlék került.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 10,
+      "title-id" : "24",
+      "title" : "gránit Chocolate DK",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 12 cm-es magasítás kapott helyet. A tömör tömb nagy fedlap (10 cm vastag), mely két szín kombinációjával készült, lezárja a keretet.  A fedlapon egy monumentális kereszt és egy ültetős kaspó helyezkedik el.",
+      "img" : "gránit Chocolate DK"
+    },
+    {
+      "id" : 11,
+      "title-id" : "39",
+      "title" : "gránit Blue Orissa",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolatot és 20 cm-es magasítást készítettünk. A tömör tömb nagy fedlapra (3 cm vastag) két süllyesztett bronz vázát és egy mécsestartót helyeztünk. A 10 cm vastag lépcsőre került emlék formája egy stilizált ovális tükör, szimmetrikus gallérral.",
+      "img" : "gránit Blue Orissa"
+    },
+    {
+      "id" : 12,
+      "title-id" : "21",
+      "title" : "gránit Samba",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 10 cm-es a magasítás. A tömör tömb fényezett nagy fedlap (10 cm vastag), lezárja a keretet. Az emlék két darabból készült, merőlegesen elfordítva egymáshoz képest.",
+      "img" : "gránit Samba"
+    },
+    {
+      "id" : 13,
+      "title-id" : "147",
+      "title" : "gránit Vizag Blue",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 18 cm magasítás kapott helyet. A 3 cm vastag tömör tömb fedlap lezárja a keretet. A 10 cm magas lépcsőre hullámos alakú emlék készült, sűrűn faragott legyező díszfaragással és arany felirattal.",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 14,
+      "title-id" : "45",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolattal és 15 cm-es magasítással készült.  A tömör  tömb nagy fedlap mely10 cm vastag, lezárja a keretet. Az emlék 'minimál' stílusú, nyers legyezőkkel és bronz felirattal.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 15,
+      "title-id" : "134",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás A keretet lezáró fedlap (3cm vtg.) alsó részében lévő kivágás alkalmas élő virág ültetésére. Az emlék formája, régi klasszikus mesterműveket idéz, kissé leegyszerűsítve.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 16,
+      "title-id" : "141",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolatot és 18 cm-es magasítást készítettünk. A tömör tömb nagy fedlapra (3 cm vastag) egy süllyesztett bronz vázát, egy gránit fózolt vázát és egy nyitott könyv kiemelő konzollal helyeztünk. Az emlék élébe antikolt, stilizált 'fa' képét faragtuk, a szugesztívebb vizuális hatás eléréséért.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 17,
+      "title-id" : "103",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolatot és 18 cm-es magasítást helyeztünk. A tömör tömb nagy fedlap (3 cm vastag), lezárja a keretet. A szív alakú emlék szerves része az íves kiegészítő támasztó lépcső, melyre süllyesztett, bronz váza került.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 18,
+      "title-id" : "72",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon, mely 3 cm vastag, egy íves dísz került elhelyezésre közepén furattal, ahova élő virág ültethető. A szimpla síremléket egy süllyesztett bronz váza is díszíti. A csúcsos emlék formáját kiemeli a nyers fózolás.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 19,
+      "title-id" : "22",
+      "title" : "gránit Bianco Crystal",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránittal burkolatú és 12 cm-es magasítású. A síremlék két szín kombinációjával készült. A tömör tömb nagy fedlap (10 cm vastag), felülete mart és fényezett. Az emlék külső ívén díszfaragás látható, mely rámutat a bronz domborműre.",
+      "img" : "gránit Bianco Crystal"
+    },
+    {
+      "id" : 20,
+      "title-id" : "122",
+      "title" : "gránit Pannon Grün",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlapon (5 cm vastag) egy bronz süllyesztett váza kapott helyet. A 10 cm magas lépcsőre, hullámos alakú emlék került, domború dísz faragással és bronz felirattal.",
+      "img" : "gránit Pannon Grün"
+    },
+    {
+      "id" : 21,
+      "title-id" : "113",
+      "title" : "gránit Baltic Green",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyre gránit burkolat és 15 cm-es magasítás került. A tömör tömb nagy fedlap (5 cm vastag) két darabból készült, sprengelt élekkel. A 10 cm magas lépcsőre amorf formájú, szakított, sprengelt élű emlék készült, arany felirattal.",
+      "img" : "gránit Baltic Green"
+    },
+    {
+      "id" : 22,
+      "title-id" : "140",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm magas, 10 cm vastag, a nyitott szegélykeret. Ez a vastagság azért szükséges, hogy a benne lévő nagy földmennyiség, fagyáskor ne törje el. A faragott sarokfedlapra került egy nyitott könyv konzollal. A 10 cm magas lépcsőre amorf formájú, szakított, sprengelt élű emlék készült, arany felirattal.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 23,
+      "title-id" : "32",
+      "title" : "gránit Amadeus",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyt gránittal burkolattal és 18 cm-es magasítással láttuk el.  A tömör tömb nagy fedlap (3 cm vastag), lezárja a keretet. A gránit lapok színkombinációja kihangsúlyozza a szív alakú emléket, melynek szerves része az íves kiegészítő támasztó lépcső.",
+      "img" : "gránit Amadeus"
+    },
+    {
+      "id" : 24,
+      "title-id" : "35",
+      "title" : "gránit Aurora",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre 18 cm-es magasítás került. A tömör tömb nagy fedlapon (5 cm vastag), két süllyesztett bronz váza kapott helyet. Az emlék formája egy stilizált ovális tükör, aszimmetrikus gallérral.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 25,
+      "title-id" : "40",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 18 cm-es magasítás látható.  A tömör tömb nagy fedlapra (3 cm vastag), egy süllyesztett bronz vázát helyeztünk. A 10 cm magas lépcsőre, hullámos, gömbölyített oldalú /Wellenfelsen/ emlék készült, bronz felirattal és kereszttel.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 26,
+      "title-id" : "43",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolatú és 20 cm-es magasítású. A tömör tömb nagy fedlapon (3 cm vastag) egy lyukkivágás és fózolt, gránit váza kapott helyet. A két darabból álló emlék nagyobb részét a gravírozott fotóval díszített kisebb elé helyeztük.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 27,
+      "title-id" : "30",
+      "title" : "gránit Rosso Vanga - Nero India",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen 18 cm-es a magasítás. A tömör tömb nagy fedlap két eltérő vastagságú darabból áll (3 és 5 cm vastag). A két szín kombinációja kiemeli a vörös anyag szépségét. A fedlapot két süllyesztett bronz váza díszíti. Az emlék formája egy stilizált timpanon, szögletes oszlopokkal.",
+      "img" : "gránit Rosso Vanga - Nero India"
+    },
+    {
+      "id" : 28,
+      "title-id" : "79",
+      "title" : "gránit New Red",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolatú és 20 cm magas, 10 cm vastag, nyitott szegélykeretű.  Ez a vastagság azért szükséges, hogy a benne lévő nagy földmennyiség, fagyáskor ne törje el. A 10 cm magas lépcsőre kerültek a vázák és a nyers falzú, 'tulipán' formájú emlék, arany felirattal és kereszttel.",
+      "img" : "gránit New Red"
+    },
+    {
+      "id" : 29,
+      "title-id" : "34",
+      "title" : "gránit Royal Mahogany",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen gránit burkolat és 15 cm magas, 10 cm vastag nyitott szegélykeret látható.  A 10 cm vastag fedlap és a kivágás is háromszög alakú. A köríves formájú emlék két részből áll, nyers első és polírozott hátsó elemből.",
+      "img" : "gránit Royal Mahogany"
+    },
+    {
+      "id" : 30,
+      "title-id" : "55",
+      "title" : "gránit Blue Orissa",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen gránit burkolat, 10 cm magas alsó szegélykeret és 15 cm magas magasítás látható. A tömör tömb nagy fedlapon (3 cm vastag) egy márvány, trapéz váza kapott helyet. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék készült, arany felirattal.",
+      "img" : "gránit Blue Orissa"
+    },
+    {
+      "id" : 31,
+      "title-id" : "28",
+      "title" : "gránit Blue Orissa",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolattal és 15 cm-es magasítással készült. Az 5 cm vastag szegélykereten található egy úgynevezett fél fedlap, mely élővirág beültetést tesz lehetővé. A 10 cm magas lépcsőre, hullámos, 'zászlós' alakú emlék került, arany felirattal és kereszttel.",
+      "img" : "gránit Blue Orissa"
+    },
+    {
+      "id" : 32,
+      "title-id" : "118",
+      "title" : "gránit Paradiso Classico",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú és 18 cm-es magasítású. A 10 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A 'vitorla' ihletésű emlék két darabból készült, merőlegesen elfordítva egymáshoz képest.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 33,
+      "title-id" : "111",
+      "title" : "gránit Madura Gold",
+      "description" : "A mobil (bontható) alapozású műkő járdaszegély gránit burkolattal és 20 cm-es magasítással készült. A tömör tömb nagy fedlapon (3 cm vastag) egy fózolt, gránit  váza kapott helyet. Az emlék faragott, festett, szomorú fűzfát ábrázol.",
+      "img" : "gránit Madura Gold"
+    },
+    {
+      "id" : 34,
+      "title-id" : "27",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély 12 cm-es magasítású. A szegélykeret első részén ültetős rész lett kialakítva, tömb gránitból. A tömör tömb nagy fedlap (3 cm vastag), lezárja a keretet. A 10 cm magas lépcsőre helyezett emlék formája stilizált vitorlára emlékeztet.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 35,
+      "title-id" : "49",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A 10 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A fedlapon látható, keresztet hordozó, egész alakos Jézus szobor bronzból készült.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 36,
+      "title-id" : "83",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolattal és 20 cm-es magasítással. A tömör tömb nagy fedlapot (5 cm vastag) egy süllyesztett bronz váza díszíti. Az emlékbe faragott nyers felület, kiemeli a keresztet.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 37,
+      "title-id" : "26",
+      "title" : "gránit Dalia Red",
+      "description" : "Bontható alapozással készült műkő járdaszegélyen gránit burkolat és 18 cm-es magasítás van. A tömör tömb nagy fedlapon (5 cm vastag) egy esztergált gránit váza kapott helyet. Az emlék hullámos tetejű, 'lapozott könyv' alakú, melyre bronz felirat került.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 38,
+      "title-id" : "109",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen 20 cm magas, 10 cm vastag, a nyitott szegélykeret. Ez a vastagság azért szükséges, hogy a benne lévő nagy földmennyiség, fagyáskor ne törje el. A formabontó emlékhez tartozik egy gömbölyített kiegészítő lépcső. Az emléken nyers dísz faltz és gravírozott portré kapott helyet.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 39,
+      "title-id" : "152",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat. 20 cm magas és 10 cm vastag szegélykeretet lezárja az 5 cm vastag fedlap. A 10 cm magas lépcsőre minimál stílusú blokk emléket készítettünk bronz felirattal és keresztel.",
+      "img" : "gránit Rosa Beta"
+    }
+  ],
+  "Szimpla-4csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "FR1",
+      "title" : "gránit Verde San Francisco",
+      "description" : "szimpla-sirko-fr1",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 1,
+      "title-id" : "51",
+      "title" : "gránit Tarn Claire",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú. Az egy tömbből készült alsó rész lépcsős kialakításánál különleges technológiát alkalmaztunk. A sírkő ezen része szimbolizálja az utat a mennyország felé. A menyorszog kapuja maga a fejkő.",
+      "img" : "gránit Tarn Claire"
+    },
+    {
+      "id" : 2,
+      "title-id" : "56",
+      "title" : "gránit Dalia Red",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 10 cm magas, alsó, fekvő szegélykeretű. A visszaugró 7 cm-es magasításon 5 cm vastag fedlap van, melynek jobb alsó sarkában egy tömb, ültetős váza látható. A hátsó, 18 cm magas lépcsőre, dúsan faragott, 'FR' design emlék került bronz felirattal és az oválban kereszttel.",
+      "img" : "gránit Dalia Red"
+    },
+    {
+      "id" : 3,
+      "title-id" : "143",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre gránit burkolatot és 15 cm-es magasítást készítettünk. A tömör tömb nagy fedlapra (10 cm vastag) két süllyesztett bronz vázát és egy mécsestartót helyeztünk. A formabontó timpanonos emlék és a kiegészítő lap harmóniája különösen kiemeli a Mária bronz szobrot.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 4,
+      "title-id" : "126",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil, (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 10 cm-es, alsó, fekvő szegélykeret kapott helyet. A visszaugró 7 cm-es magasításon helyezkedik el a 8 cm vastag fedlap, mely lezárja a keretet. Az emlék egy klasszikus, három darabból álló Spitz.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 5,
+      "title-id" : "128",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 10x15cm keresztmetszetű alsó fekvő szegélykeret van. A visszaugró 7cm magas magasításon helyezkedik el az 5cm vtg. fedlap, jobb alsó sarkában ültetős vázával. A hátsó 18cm magas lépcsőre dúsan faragott emlék került , melyet élébe faragott stilizált 'fa' díszít, felülete antikolva van a jobb vizuális hatás érdekében.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 6,
+      "title-id" : "153",
+      "title" : "gránit Red Gaby",
+      "description" : "A mobil (bontható) alapozásra gránit burkolat került. A speciálisra tervezett sírkő alsórész fedlapja egy 500 kg-os zárt könyv. A két faltzal díszített emlék alatt 30 x 40 cm keresztmetszetű tömb lépcső van.",
+      "img" : "gránit Red Gaby"
+    },
+    {
+      "id" : 7,
+      "title-id" : "120",
+      "title" : "gránit Nero Assoluto India - Carrara",
+      "description" : "A mobil (bontható) alapozású műkő járdaszegély gránit burkolatú és 25 cm-es magasítású. A 5 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A 20 cm magas lépcsőre került a bronz felirat. Az emlékbe valósághoz hű, mély dombormű faragás került.",
+      "img" : "gránit Nero Assoluto India - Carrara"
+    },
+    {
+      "id" : 8,
+      "title-id" : "154",
+      "title" : "gránit Via Lattea",
+      "description" : "A hegyoldalban lévő temető lejtését a sírkő alsó homlokzat falával követtük. A gránit burkolaton 15 x 5 cm-es szegéllyek vannak. A 10 cm vastag nagyfedlap hosszanti oldalain dísz fóznit készítettünk, ami az emléken is látható. Az emlékhez készített speciális lézergravírozott plakett süllyesztve van. A fedlap alsó részére helyeztünk egy konzolos emléktáblát, amin aranyozott felirat látható.",
+      "img" : "gránit Via Lattea"
+    },
+    {
+      "id" : 9,
+      "title-id" : "105",
+      "title" : "gránit Aurora - Nero Assoluto India",
+      "description" : "A bontható alapozású műkő járdaszegélyre gránit burkolat, 6 cm-es szegélykeret, arra pedig egy beugró magasítás került. Az egy tömb, 10 cm-es fedlap ívesen lejtős, felülete speciális eljárással készült. A tömör monumentális kereszt hátulról előre lejt. A színek kombinációja kiemeli a fekete keresztet.",
+      "img" : "gránit Aurora - Nero Assoluto India"
+    },
+    {
+      "id" : 10,
+      "title-id" : "110",
+      "title" : "gránit Halmstadt Bararp - Black",
+      "description" : "Az alsó szint többféle forma és szín kombinációjával készült. A 5 cm vastag, tömör, tömb, nagy fedlap követi az alsó rész formáját és lezárja a keretet. A 'leveles' emlék két darabból készült, az egyik az alsó fedlapon a másik a felső fedlapon áll.   A két anyag kombinációja kiemeli egymás színét.",
+      "img" : "gránit Halmstadt Bararp - Black"
+    },
+    {
+      "id" : 11,
+      "title-id" : "89",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A 10 cm-es, tömör, tömb fedlap nagyobbik fele lejtősre 'spandátolt', kisebbik feléből a tömbből kimart ültetős kert készült. A 10 cm magas lépcsőre dúsan faragott 'FR' design emlék került, kontúr faragott motívummal és arany felirattal.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 12,
+      "title-id" : "132",
+      "title" : "gránit Rosso Vanga - Nero India",
+      "description" : "Az égetett járdaburkolatot kívülről egy fényezett dísz csík határolja , ami keretet ad a síremlék alapjának. A fekete magasítás alá, 5cm vastag alsó szegélykeret helyeztünk, hogy karakteresebb legyen a fedlap alatti rész. A magasított lépcsőn lévő emlék formája klasszikus timpanonos, esztergált oszlopokkal és prizmás tetővel.",
+      "img" : "gránit Rosso Vanga - Nero India"
+    },
+    {
+      "id" : 13,
+      "title-id" : "133",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 12cm magas alsó fekvő szegélykeret. A tömőr tömb nagyfedlap (12cm vtg.) alsó harmadában egy kimart ültetős kert készült. A minimal stílus a 'blokk' emlék formáján is tükröződik.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 14,
+      "title-id" : "101",
+      "title" : "gránit Tarn Claire - Nero India",
+      "description" : "A mobil, (bontható) alapozással készült műkő járdaszegélyen gránit burkolat kapott helyet. A 10 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. Az emlék motívum egy 'Bástya' sakk figurát ábrázol, melyet a két szín kombinációja emel ki. 'Az utolsó csendes lépés.'",
+      "img" : "gránit Tarn Claire - Nero India"
+    },
+    {
+      "id" : 15,
+      "title-id" : "144",
+      "title" : "gránit Rosso Vanga - Nero India",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen gránit burkolat, 5 cm magas alsó szegélykeret és 20 cm magas magasítás látható. A tömör tömb nagy fedlapon (3 cm vastag) egy nyitott gránit könyv kapott helyet.  A magasított lépcsőn lévő emlék formája klasszikus timpanonos, esztergált oszlopokkal és prizmás tetővel.",
+      "img" : "gránit Rosso Vanga - Nero India"
+    },
+    {
+      "id" : 16,
+      "title-id" : "139",
+      "title" : "gránit Baltic Green",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 10 cm magas, alsó, fekvő szegélykeretű. A visszaugró, 7 cm-es magasításon látható az 5 cm vastag fedlap, melynek jobb alsó sarkába egy tömb, ültetős váza került. A hátsó, 18 cm magas lépcsőre egy dúsan faragott, 'FR' design emléket helyeztünk, bronz felirattal.",
+      "img" : "gránit Baltic Green"
+    },
+    {
+      "id" : 17,
+      "title-id" : "137",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és lépcsőzetes magasítás. A keretet lezáró fedlapok (3cm vtg.) eltérő magassában helyezkednek el, élek gömbölyítve vannak. Az emlék két darabból készült, amiknek ívei harmonizálnak egymással és ezzel a megoldással külön ki lehetett emelni a bronz madonna portrét.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 18,
+      "title-id" : "29",
+      "title" : "gránit Copacabana",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 12 cm-es magasítás helyezkedik el. A tömör tömb nagy fedlap (10 cm vastag), íves marással díszített felületén ovális lyukkivágás látható. Az egyenes oldalú, csúcsos tetejű emléken a díszfaragás követi a fedlapon lévő íves formát.",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 19,
+      "title-id" : "50",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 20 cm-es szegélykeret látható, egy tömbből faragott előkerttel. Az 5 cm vastag, tömör, tömb, nagy fedlap oldala holkeres profilozású. Az emléken látható motívum vegyes elkészítési móddal készült, a bronz plasztika faragással és gravírozással.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 20,
+      "title-id" : "106",
+      "title" : "gránit Verde Gloria",
+      "description" : "A bontható alapozású műkő járda-szegély gránit burkolatú és 10 cm-es alsó, fekvő szegélykeretű. A 7 cm-es visszaugró magasításon 5 cm vastag fedlap van, melynek jobb alsó sarkában íves, tömb ültetős vázát tettünk. A hátsó, 18 cm magas lépcsőre dúsan faragott 'FR' design emlék került bronz felirattal és az oválban vadász sapkával.",
+      "img" : "gránit Verde Gloria"
+    },
+    {
+      "id" : 21,
+      "title-id" : "20",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyre került elhelyezésre a gránit burkolat és a 20 cm magas szegélykeret, 5 cm-es előlépcsővel. A tömör tömb nagy fedlap (3 cm vastag), lezárja a keretet. A 10 cm magas lépcsőre, álló trapéz formájú emlék készült, minimál stílusban, natúr felirattal.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 22,
+      "title-id" : "36",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 12 cm-es magasítás látható. A tömör tömb nagy fedlap (10 cm vastag), íves marással készült, nyers felülettel, és egy amorf lyukkivágással. A formabontó emléken is látható ez a stilizált megoldás, melyre relief felirat és gravírozott plakett került.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 23,
+      "title-id" : "57",
+      "title" : "gránit Schöderhamn",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegélyen gránit burkolat és 15 cm-es magasítás kapott helyet. A 10 cm vastag, tömör, tömb, nagy fedlap hosszanti élei félkörívesen gömbölyítettek. A kiegészítő lépcsőbe süllyesztett bronz váza, az emlékbe nyers felületű marás és gravírozott portré került.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 24,
+      "title-id" : "58",
+      "title" : "gránit Labrador Blue",
+      "description" : "A mobil, (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 12 cm-es magasítás kapott helyet. A 10 cm vastag, tömör, tömb, nagy fedlap és az emlék hosszanti élei félkörívesen gömbölyítettek. A fejkő nyers felületű csúcsos részébe bronz kereszt került.",
+      "img" : "gránit Labrador Blue"
+    },
+    {
+      "id" : 25,
+      "title-id" : "145",
+      "title" : "gránit Aurora",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 10x15cm keresztmetszetű alsó fekvő szegélykeret van. A visszaugró 7cm magas magasításon helyezkedik el az 5cm vtg. fedlap, jobb alsó sarkában ültetős vázával. A hátsó 18cm magas lépcsőre dúsan faragott emlék került , melyet élébe faragott stilizált 'fa' díszít, felülete antikolva van a jobb vizuális hatás érdekében.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 26,
+      "title-id" : "61",
+      "title" : "gránit Nero Impala",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A 10 cm vastag szegélykeret eláll a magasítástól, bal, hosszanti éle holkeres díszítésű. A 3 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A 10 cm magas lépcsőre hullámos alakú emlék készült, nyers tagozattal, bronz felirattal.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 27,
+      "title-id" : "62",
+      "title" : "gránit Nero Impala",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A szegélykeret eláll a magasítástól, bal, hosszanti éle holkeres díszítésű. A fedlap lezárja a keretet, melyet egy bronz mécsestartó díszít. A lépcsőre hullámos alakú emlék készült, egy nyers tagozattal, bronz felirattal és plasztikus rózsa csokorral.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 28,
+      "title-id" : "63",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 10 cm magas, alsó, fekvő szegélykeretű. A visszaugró, 7 cm-es magasításon látható az 5 cm vastag fedlap, melynek jobb alsó sarkába egy tömb, ültetős váza került. A hátsó, 18 cm magas lépcsőre egy dúsan faragott, 'FR' design emléket helyeztünk, arany felirattal.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 29,
+      "title-id" : "64",
+      "title" : "gránit Halmstadt Bararp - Impala",
+      "description" : "A bontható alapozású műkő járdaszegély 10 cm-es alsó, fekvő szegélykeretű. A felső szegélykeret oldala rézsűs kialakítású, elejét egy tömbből kialakított kert díszíti. A 3 cm-es fedlap lezárja a keretet, amire egy süllyesztett bronz vázát tettünk. A 10 cm-es lépcsőre dúsan faragott, 'FR' design emlék került, arany felirattal.",
+      "img" : "gránit Halmstadt Bararp - Impala"
+    },
+    {
+      "id" : 30,
+      "title-id" : "66",
+      "title" : "gránit Royal Mahogany - Tarn Claire",
+      "description" : "A két szín kombinációja kiemeli a másik anyag kontrasztját. Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 15cm magas magasítás. A két fedlap hosszú élei gömbölyítettek, egymáshoz képest más magasságon helyezkednek el. A lépcsőbe ez a szint eltolás be van marva. Az emlék két daradja egymásba van integrálva, mellynek élei gömbölyítettek.",
+      "img" : "gránit Royal Mahogany - Tarn Claire"
+    },
+    {
+      "id" : 31,
+      "title-id" : "67",
+      "title" : "gránit Vizag Blue",
+      "description" : "A mobil, (bontható) alapozású járdaszegély gránit burkolatú és 10 cm-es alsó fekvő szegélykeretű. A visszaugró, 7 cm-es magasításon helyezkedik el az 5 cm vastag fedlap, melynek jobb alsó sarkát egy tömb, ültetős váza díszíti. A hátsó, 18 cm magas lépcsőre dúsan faragott, 'FR' design emlék került, relief felirattal.",
+      "img" : "gránit Vizag Blue"
+    },
+    {
+      "id" : 32,
+      "title-id" : "71",
+      "title" : "gránit Vizag Blue - Nero Impala",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú és 10 cm-es, alsó, fekvő szegélykeretű. A visszaugró, 7 cm-es magasításon helyezkedik el az 5 cm vastag fedlap, melynek jobb alsó sarkába tömb, ültetős váza került. A hátsó, 18 cm magas lépcsőre dúsan faragott, 'FR' design emléket helyeztünk, arany felirattal.",
+      "img" : "gránit Vizag Blue - Nero Impala"
+    },
+    {
+      "id" : 33,
+      "title-id" : "84",
+      "title" : "gránit Verde Laguna",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegélyre gránit burkolatöt és 15 cm-es magasítást helyeztünk. A 10 cm vastag, tömör, tömb, nagy fedlap  és az emlék hosszanti élei félkörívesen  gömbölyítettek, felületük egy része nyersre mart.",
+      "img" : "gránit Verde Laguna"
+    },
+    {
+      "id" : 34,
+      "title-id" : "75",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A mobil, (bontható) alapozással készült műkő járdaszegélyre gránit burkolat és 20 cm magas szegélykeret került, 5 cm-es előlépcsővel. A 3 cm vastag, tömör, tömb, nagy fedlap lezárja a keretet. A 10 cm magas lépcsőre fekvő, szögletes formájú emlék készült, minimál stílusban, arany felirattal és kereszttel.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 35,
+      "title-id" : "73",
+      "title" : "gránit Nero Impala",
+      "description" : "A mobil, (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 12 cm-es magasítás kapott helyet.  A 10 cm vastag, tömör, tömb, nagy fedlap  és az emlék hosszanti élei félkörívesen gömbölyítettek. A nyers felületű csúcsos részbe bronz kereszt került.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 36,
+      "title-id" : "78",
+      "title" : "gránit Halmstadt Bararp - Verde SF",
+      "description" : "A bontható alapozású műkő járdaszegély 10 cm magas, alsó, fekvő keretű. A felső keret oldala rézsűs, elején egy tömbből kialakított kerttel. Az 5 cm vastag, tömör, tömb, nagy, fedlap lezárja a keretet, melyet egy bronz, süllyesztett váza díszít. Az emlék két darabból áll, illesztéseinél natúr marással és kiegészítő posztamenssel.",
+      "img" : "gránit Halmstadt Bararp - Verde SF"
+    },
+    {
+      "id" : 37,
+      "title-id" : "81",
+      "title" : "gránit Rosso Santiago - Tarn Claire",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 10 cm magasítással, íves előkerttel. A 10 cm vastag tömör, tömb, nagy fedlap korong formájú és gömbölyített élű. A 10 cm magas, íves elejű, gömbölyített lépcsőre 'henger' alakú emlék került, támasztóval. A két szín kombinációja kontrasztossá teszi a sírkövet.",
+      "img" : "gránit Rosso Santiago - Tarn Claire"
+    },
+    {
+      "id" : 38,
+      "title-id" : "38",
+      "title" : "gránit Copacabana",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 12 cm-es magasítású. A 10 cm vastag, két oldalsó  szegély belső éle gömbölyített,  a végek szinteltolással készültek. Az emlék alja karcsúsított, hogy a két szegély közé férjen. A felirat írott bronz betűs.",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 39,
+      "title-id" : "41",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 15 cm-es magasítású. A 10 cm vastag, tömör, tömb, nagy fedlap felülete ívesen mart, amire egy süllyesztett bronz vázát helyeztünk. Az egyenes oldalú, csúcsos tetejű emléken látható díszfaragás követi a fedlapon lévő íves formát.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 40,
+      "title-id" : "146",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegélyen gránit burkolat, 20 cm magas magasítás került. A tömör tömb nagy fedlapon (3 cm vastag) egy bronz süllyesztett váza kapott helyet.  A magasított lépcsőn lévő emlék formája klasszikus timpanonos, esztergált oszlopokkal és prizmás tetővel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 41,
+      "title-id" : "48",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas, rézsüs szegélykeret, 5cm-es előlépcsővel és azon egy bronz kaspó. A tömőr tömb nagyfedlap (3cm vtg.), lezárja a keretet. A 10cm magas lépcsőre került emlék külső peremére, nyers lépcsőzetes faragás került.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 42,
+      "title-id" : "33",
+      "title" : "gránit Copacabana",
+      "description" : "Mobil (bontható) alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A tömör tömb nagy fedlapra 10 cm vastag, íves marás készült, nyers felülettel. A formabontó emléken is látható ez a díszítő marás, melyre bronz felirat és kereszt került.",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 43,
+      "title-id" : "53",
+      "title" : "gránit Copacabana",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 12cm magas magasítás, és 10cm vtg. szegélykeret. A keretet lezáró fedlap (3cm vtg.) bal alsó sarkába illesztettünk egy sarokdíszt. A 10cm vtg. lépcsőre került emlék formája egy stilizált ovális tükör, szimetrikus gallérral.",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 44,
+      "title-id" : "108",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 10 cm-es alsó, fekvő szegélykerettel. A visszaugró, 7 cm-es magasításon 5 cm vastag fedlap van, melynek jobb alsó sarkában egy íves, tömb, ültetős váza kapott helyet. A hátsó, 18 cm magas lépcsőre került az emlék, melyen a nyers faragott felület, kiemeli a keresztet.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 45,
+      "title-id" : "112",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 10cm magas alsó fekvő szegélykeret. A visszaugró 7cm magas magasításon helyezkedik el az 5cm vtg. fedlap, mellynek jobb alsó sarkában van egy tömb ültetős váza. A hátsó, 18 cm magas lépcsőre került az emlék, melyre lépcsőzetes, fényezett faltz került.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 46,
+      "title-id" : "54",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A 10 cm vastag, tömör, tömb, nagy fedlap nagyobbik fele lejtősre 'spandátolt', kisebbik feléből a tömbből kimart ültetős kert készült.  Az egyenes és íves élekkel készült emlékre bronz betűs feliratot készítettünk.",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 47,
+      "title-id" : "52",
+      "title" : "gránit Aurora - Nero Assoluto India",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 6 cm magas szegélykerettel, amire egy beugró magasítás került. A 10 cm vastag fedlap ívesen lejtős felülete speciális eljárással készült. A monumentális kereszt hátulról előre lejt, így kifinomultabb benyomást kelt. A két szín kombinációja kiemeli a fekete keresztet.",
+      "img" : "gránit Aurora - Nero Assoluto India"
+    },
+    {
+      "id" : 48,
+      "title-id" : "23",
+      "title" : "gránit Rosso Vanga",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegély gránit burkolatú és 12 cm-es magasítású. A tömör tömb nagy fedlap (10 cm vastag), felülete ívesen mart. Az egyenes oldalú, csúcsos tetejű emléken egy bronz 'Mária' plakett és bronz felirat kapott helyet.",
+      "img" : "gránit Rosso Vanga"
+    },
+    {
+      "id" : 49,
+      "title-id" : "59",
+      "title" : "gránit Blue Oryssa - Nero India",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 15 cm-es magasítású. A két fedlap hosszú élei gömbölyítettek és más magasságban helyezkednek el. A lépcsőbe ez a szinteltolás be van marva. Az emlék két darabját egymásba integráltuk, éleiket legömbölyítettük. A síemléket két szín kontrasztja teszi egyedivé.",
+      "img" : "gránit Blue Oryssa - Nero India"
+    },
+    {
+      "id" : 50,
+      "title-id" : "60",
+      "title" : "gránit Verde San Francisco",
+      "description" : "A mobil (bontható) alapozással készült műkő járdaszegélyen gránit burkolat és 15 cm-es magasítás helyezkedik el. A 10 cm vastag, tömör, tömb, nagy fedlap és az emlék hosszanti élei félkörívesen gömbölyítettek, felületük egy része nyersre mart.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 51,
+      "title-id" : "42",
+      "title" : "gránit Amadeus",
+      "description" : "A mobil, (bontható) alapozású műkő járdaszegély gránit burkolatú, 15 cm-es magasítású. Az 5 cm vastag szegélykeret egy kicsit eláll a magasítástól. A 3 cm-es, tömör, tömb, nagy fedlap lezárja a keretet. A két darabból álló, szembe fordított emlék szerves része a kiegészítő kis lépcső.",
+      "img" : "gránit Amadeus"
+    },
+    {
+      "id" : 52,
+      "title-id" : "47",
+      "title" : "gránit Halmstadt Bararp",
+      "description" : "A mobil (bontható) alapozású műkő járdaszegély gránit burkolatú és 12 cm -es magasítású.    A 10 cm vastag, tömör, tömb, nagy fedlap  nagyobbik fele lejtősre 'spandátolt', kisebbik feléből a tömbből kimart ültetős kert készült. Az emlék jobb alsó felébe, dúsan faragott tagozat került.",
+      "img" : "gránit Halmstadt Bararp"
+    },
+    {
+      "id" : 53,
+      "title-id" : "104",
+      "title" : "gránit Aurora",
+      "description" : "A bontható alapozású műkő járdaszegély gránit burkolatú és 10 cm-es alsó, fekvő szegélykeretű. A visszaugró 7 cm-es magasításon 5 cm-es fedlap van, melynek jobb alsó sarkába egy tömb, ültetős váza áll. A hátsó, 18 cm-es lépcsőn faragott virág és díszített 'FR' design emlék kapott helyet bronz felirattal és kereszttel.",
+      "img" : "gránit Aurora"
+    },
+    {
+      "id" : 54,
+      "title-id" : "FR2",
+      "title" : "gránit Verde San Francisco",
+      "description" : "szimpla-sirko-fr2",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 55,
+      "title-id" : "FR3",
+      "title" : "gránit Himalaya",
+      "description" : "szimpla-sirko-fr3",
+      "img" : "gránit Himalaya"
+    },
+    {
+      "id" : 56,
+      "title-id" : "FR4",
+      "title" : "gránit Nero Impala",
+      "description" : "szimpla-sirko-fr4",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 57,
+      "title-id" : "FR5",
+      "title" : "gránit Copacabana",
+      "description" : "szimpla-sirko-fr5",
+      "img" : "gránit Copacabana"
+    },
+    {
+      "id" : 58,
+      "title-id" : "FR6",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "szimpla-sirko-fr6",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 59,
+      "title-id" : "FR7",
+      "title" : "gránit Verde San Francisco - Black",
+      "description" : "szimpla-sirko-fr7",
+      "img" : "gránit Verde San Francisco - Black"
+    },
+    {
+      "id" : 60,
+      "title-id" : "FR8",
+      "title" : "gránit Labrador Blue",
+      "description" : "szimpla-sirko-fr8",
+      "img" : "gránit Labrador Blue"
+    },
+    {
+      "id" : 61,
+      "title-id" : "FR9",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "szimpla-sirko-fr9",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 62,
+      "title-id" : "E1",
+      "title" : "gránit Himalaya",
+      "description" : "szimpla-sirko-e1",
+      "img" : "gránit Himalaya"
+    },
+    {
+      "id" : 63,
+      "title-id" : "E2",
+      "title" : "gránit Nero Impala",
+      "description" : "szimpla-sirko-e2",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 64,
+      "title-id" : "E3",
+      "title" : "gránit Multicolor Red",
+      "description" : "szimpla-sirko-e3",
+      "img" : "gránit Multicolor Red"
+    },
+    {
+      "id" : 65,
+      "title-id" : "E4",
+      "title" : "gránit Verde San Francisco - Chrytal",
+      "description" : "szimpla-sirko-e4",
+      "img" : "gránit Verde San Francisco - Chrytal"
+    },
+    {
+      "id" : 66,
+      "title-id" : "E5",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "szimpla-sirko-e5",
+      "img" : "gránit Nero Assoluto India"
+    },
+    {
+      "id" : 67,
+      "title-id" : "E6",
+      "title" : "gránit Verde San Francisco",
+      "description" : "szimpla-sirko-e6",
+      "img" : "gránit Verde San Francisco"
+    }
+  ],
+  "Sirko-dupla" : [
+    {
+      "id" : 0,
+      "title" : "Dupla sírkő 1. csoport",
+      "img" : "Dupla sírkő 1. csoport"
+    },
+    {
+      "id" : 1,
+      "title" : "Dupla sírkő 2. csoport",
+      "img" : "Dupla sírkő 2. csoport"
+    },
+    {
+      "id" : 2,
+      "title" : "Dupla sírkő 3. csoport",
+      "img" : "Dupla sírkő 3. csoport"
+    },
+    {
+      "id" : 3,
+      "title" : "Dupla sírkő 4. csoport",
+      "img" : "Dupla sírkő 4. csoport"
+    }
+  ],
+  "Dupla-1csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "D 74",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van egy mécses tartó és bronz váza. A 10cm magas lépcsőre, csúcsos tetejű és íves oldalú emlék készült, minimal stílusban, fekete felirattal és kereszttel.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 1,
+      "title-id" : "D 3",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van egy sűllyesztett váza és egy natur mart rózsa motívum. A 10cm magas lépcsőre, fekvő hasáb emlék készült lecsapott sarkokkal, minimal stílusban, relief felirattal és porcelán fényképpel.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 2,
+      "title-id" : "D 103",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van 2db mécses tartó. A 10cm magas faragott lépcsőre naturisztikus, faragott és amorf formájú emlék készült, fekete felirattal és kereszttel.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 3,
+      "title-id" : "D 96",
+      "title" : "gránit Paradiso Classico",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van 2db gránit fózolt váza. A 10cm magas lépcsőre, fekvő hasáb emlék készült lecsapott sarkokkal, minimal stílusban, arany felirattal.",
+      "img" : "gránit Paradiso Classico"
+    },
+    {
+      "id" : 4,
+      "title-id" : "D 82",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet. Az emlék amorf formájú, sprengelt, szakított oldallal készült, lézergravírozott portréval és aranyozott karakterekkel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 5,
+      "title-id" : "D 46",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet. Az emlék formája szimetrikus, egyenes oldalakkal és íves tetővel.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 6,
+      "title-id" : "D 2",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Az áthidaló lépcsőn van egy kis lépcső és két darab sűllyesztett bronz váza. A trapéz alakú emlék minimal stílusban készült arany felirattal és kereszttel.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 7,
+      "title-id" : "D 5",
+      "title" : "gránit Red Gaby",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van két darab bronz sűllyesztett váza. A 10cm magas lépcsőre, trapéz alakú emlék készült, minimal stílusban, arany felirattal.",
+      "img" : "gránit Red Gaby"
+    },
+    {
+      "id" : 8,
+      "title-id" : "D 69",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 17cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van két sűllyesztett váza. A 10cm magas lépcsőre, fekvő hasáb alakú emlék készült, minimal stílusban, fekete felirattal.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 9,
+      "title-id" : "D 73",
+      "title" : "gránit Rosa Beta",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 30cm-ről 25cm-re lejtős magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, amire került a bronz felirat és két darab sűllyesztett bronz váza.",
+      "img" : "gránit Rosa Beta"
+    },
+    {
+      "id" : 10,
+      "title-id" : "D 58",
+      "title" : "gránit Juparana",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van két sűllyesztett váza. A fedlapra helyeztük a 'fejpárnát', amire kerül a felirat. Javasolt a bronz vagy a natur karakter.",
+      "img" : "gránit Juparana"
+    },
+    {
+      "id" : 11,
+      "title-id" : "D 97",
+      "title" : "gránit Nero Assoluto India",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit járdaburkolat és 20cm magas magasítás. A két darabból álló 5cm vtg. nagyfedlap lezárja a keretet, mellyen van a relief felirat. A járdára helyeztük a nagyméretű gránit vázát.",
+      "img" : "gránit Nero Assoluto India"
+    }
+  ],
+  "Dupla-2csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "D 8",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van középen egy ovális lyukkivágás. A 10cm vtg. lépcsőre került emlék formája egy stilizált ovális tükör, szimmetrikus gallérral.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 1,
+      "title-id" : "D 89",
+      "title" : "gránit Multicolor Rosso",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Az áthidaló lépcsőn van egy kis lépcső és egy darab esztergált váza és szögletes mécses. Az emlék, két lépcsős fényezett falccal készült, ún. 'tulipános' formájú, natúr felirattal.",
+      "img" : "gránit Multicolor Rosso"
+    },
+    {
+      "id" : 2,
+      "title-id" : "D 48",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 18cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet. Az emlék egy fekvő trapéz, minimál stílusban, arany felirattal és kereszttel.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 3,
+      "title-id" : "D 85",
+      "title" : "gránit Verde Marina",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Az áthidaló lépcsőn van egy kis lépcső és kettő darab bronz süllyesztett váza. Az emlék, két lépcsős fényezett falccal készült, ún. 'tulipános' formájú, arany felirattal és kereszttel.",
+      "img" : "gránit Verde Marina"
+    },
+    {
+      "id" : 4,
+      "title-id" : "D 9",
+      "title" : "gránit Multicolor Rosso",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Az áthidaló lépcsőn van egy kis lépcső és két darab bronz váza. Az íves, gömbölyded emléken bronz felirat és mart kereszt virággal motívum látható.",
+      "img" : "gránit Multicolor Rosso"
+    },
+    {
+      "id" : 5,
+      "title-id" : "D 106",
+      "title" : "márvány Ruskicai",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas magasítás. Az egy darabból álló 5cm vtg. nagyfedlap lezárja a keretet, mellyen van egy márvány kereszt. A fedlapra helyeztük a 'fejpárnát', amire került a felirat.",
+      "img" : "márvány Ruskicai"
+    },
+    {
+      "id" : 6,
+      "title-id" : "D 105",
+      "title" : "gránit Aurora Indian",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. A lépcsőn lévő két emlék szimmetriája, rámutat a /kapu/ közrefogott tér örökkévalóságára. Szimbolizálja a Mennybe vezető utat.",
+      "img" : "gránit Aurora Indian"
+    },
+    {
+      "id" : 7,
+      "title-id" : "D 70",
+      "title" : "gránit Rosso Santiago",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A 2/3 részt fedő 4cm vtg. gömbölyített élű nagyfedlap ívesen csatlakozik az 1/3 részt fedő 6cm vtg. Az emlék formája szabályos félkőr alakú, és az alja karcsúsított.fedlaphoz.",
+      "img" : "gránit Rosso Santiago"
+    },
+    {
+      "id" : 8,
+      "title-id" : "D 11",
+      "title" : "gránit Nero Impala",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 20cm magas, 10cm vastag nyitott szegélykeret. Ez a vastagság azért szükséges, mert a benne lévő nagy föld mennyiség, fagyáskor ne törje el. Az áthidaló lépcsőn van egy kis lépcső és két darab süllyesztett bronz váza. Az emlék egy fekvő hasáb, minimál stílusban, relief felirattal és gravírozott fényképpel.",
+      "img" : "gránit Nero Impala"
+    },
+    {
+      "id" : 9,
+      "title-id" : "D 17",
+      "title" : "gránit Verde San Francisco, Aurora",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 17cm magas magasítás. A 2/3 részt fedő 3cm vtg. nagyfedlap ferdén csatlakozik az 1/3 részt fedő 5cm vtg. fedlaphoz. Az áthidaló lépcsőn van egy kis lépcső. Az emlék, hullámos, 'zászlós' csúcsos alakú, arany felirattal.",
+      "img" : "gránit Verde San Francisco, Aurora"
+    },
+    {
+      "id" : 10,
+      "title-id" : "D 71",
+      "title" : "gránit Verde San Francisco",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A 2/3 részt fedő 3cm vtg. nagyfedlap ferdén csatlakozik az 1/3 részt fedő 5cm vtg. fedlaphoz. Az áthidaló lépcsőn van egy kis lépcső. Az emlék, hullámos,'zászlós' csúcsos alakú, arany felirattal.",
+      "img" : "gránit Verde San Francisco"
+    },
+    {
+      "id" : 11,
+      "title-id" : "D 12",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Középen ovális lyukkivágás. Az áthidaló lépcsőn van egy kis lépcső és két darab süllyesztett bronz váza. Az emlék formája egy stilizált ovális tükör, szimmetrikus gallérral.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 12,
+      "title-id" : "D 1",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. Az oldalsó fedlapok 5cm vastagságúak, középen élő virág ültetésére maradt hely. Az áthidaló lépcsőn van egy kis lépcső és két darab süllyesztett bronz váza. Egyszerű íves oldalú 'zászlós' emlék készült, arany felirattal és kereszttel.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 13,
+      "title-id" : "D 4",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 15cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Az áthidaló lépcsőre, fekvő hasáb emlék készült lecsapott sarkokkal, minimál stílusban, arany felirattal.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 14,
+      "title-id" : "D 13",
+      "title" : "gránit Royal Mahogany",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak, elől süllyesztett bronz mécses. Az áthidaló lépcsőn van egy kis lépcső és két darab süllyesztett bronz váza. Az emlék formája szimmetrikus, egyenes oldalakkal és íves tetővel.",
+      "img" : "gránit Royal Mahogany"
+    },
+    {
+      "id" : 15,
+      "title-id" : "D 19",
+      "title" : "gránit Schöderhamn",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van gránit burkolat és 20cm magas magasítás. A két darabból álló 3cm vtg. nagyfedlap lezárja a keretet, mellyen van középen egy ovális lyukkivágás. A lépcsőn van két kis lépcső. Az emlék egy fekvő hasáb, minimál stílusban, arany felirattal.",
+      "img" : "gránit Schöderhamn"
+    },
+    {
+      "id" : 16,
+      "title-id" : "D 15",
+      "title" : "gránit Royal Mahogany",
+      "description" : "Mobil (bontható) alapozással készült műkő járdaszegélyen van 18cm magas magasítás. A három darabból álló fedlapok középső eleme 5cm, az oldalsó fedlapok 3cm vastagságúak. Középen ovális lyukkivágás. Az áthidaló lépcsőn van egy kis lépcső és két darab süllyesztett bronz váza. Az emlék formája szimmetrikus, egyenes oldalakkal és íves tetővel.",
+      "img" : "gránit Royal Mahogany"
+    }
+  ],
+  "Dupla-3csoport" : [
+    {
+      "id" : 0,
+      "title-id" : "",
+      "title" : "",
+      "description" : "",
+      "img" : ""
     }
   ]
 }
