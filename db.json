@@ -4519,5 +4519,667 @@
       "title" : "Supergrey gránit tömb kőlépcső nyers durva felülettel",
       "img" : "Supergrey gránit tömb kőlépcső nyers durva felülettel"
     }
+  ],
+  "Epiteszet-keritesfedko" : [
+    {
+      "id" : 0,
+      "title" : "Jura Gelb mészkő kerítésfedkő, kerítésfedlap faragott szakított éllel és mattcsiszolt felülettel",
+      "img" : "Jura Gelb mészkő kerítésfedkő, kerítésfedlap faragott szakított éllel és mattcsiszolt felülettel"
+    },
+    {
+      "id" : 1,
+      "title" : "Nero Impala gránit kerítésfedkő kerítésfedlap fényezett felülettel",
+      "img" : "Nero Impala gránit kerítésfedkő kerítésfedlap fényezett felülettel"
+    },
+    {
+      "id" : 2,
+      "title" : "Rio Preto gránit ívelt formájú fedkő fedlap mattcsiszolt felülettel",
+      "img" : "Rio Preto gránit ívelt formájú fedkő fedlap mattcsiszolt felülettel"
+    },
+    {
+      "id" : 3,
+      "title" : "Rio Preto gránit kerítésfedkő kerítésfedlap kúpos prizmás kialakítással mattcsiszolt felülettel",
+      "img" : "Rio Preto gránit kerítésfedkő kerítésfedlap kúpos prizmás kialakítással mattcsiszolt felülettel"
+    },
+    {
+      "id" : 4,
+      "title" : "Rio Preto gránit kerítésfedkő kerítésfedlap mattcsiszolt felülettel",
+      "img" : "Rio Preto gránit kerítésfedkő kerítésfedlap mattcsiszolt felülettel"
+    },
+    {
+      "id" : 5,
+      "title" : "Rosa Porrino gránit kerítésfedkő kerítésfedlap fényezett felülettel",
+      "img" : "Rosa Porrino gránit kerítésfedkő kerítésfedlap fényezett felülettel"
+    },
+    {
+      "id" : 6,
+      "title" : "Silver Star gránit kerítésfedkő kerítésfedlap kúpos prizmás kialakítással fényezett felülettel",
+      "img" : "Silver Star gránit kerítésfedkő kerítésfedlap kúpos prizmás kialakítással fényezett felülettel"
+    },
+    {
+      "id" : 7,
+      "title" : "Steel Grey gránit kerítésfedkő kerítésfedlap gyémántkefélt antikolt felülettel",
+      "img" : "Steel Grey gránit kerítésfedkő kerítésfedlap gyémántkefélt antikolt felülettel"
+    }
+  ],
+  "Epiteszet-kokorlat" : [
+    {
+      "id" : 0,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 1,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 2,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 3,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 4,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 5,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 6,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 7,
+      "title" : "Baluszter kőkorlát mészkőből és márványból",
+      "img" : "Baluszter kőkorlát mészkőből és márványból"
+    },
+    {
+      "id" : 8,
+      "title" : "Baluszter kőkorlát mészkőből és márványból Sevilla típus",
+      "img" : "Baluszter kőkorlát mészkőből és márványból Sevilla típus"
+    },
+    {
+      "id" : 9,
+      "title" : "Baluszter kőkorlát mészkőből és márványból Millennium típus",
+      "img" : "Baluszter kőkorlát mészkőből és márványból Millennium típus"
+    },
+    {
+      "id" : 10,
+      "title" : "Baluszter kőkorlát mészkőből és márványból Budapest típus",
+      "img" : "Baluszter kőkorlát mészkőből és márványból Budapest típus"
+    },
+    {
+      "id" : 11,
+      "title" : "Baluszter kőkorlát mészkőből és márványból különböző típusok",
+      "img" : "Baluszter kőkorlát mészkőből és márványból különböző típusok"
+    }
+  ],
+  "Epiteszet-kandallo" : [
+    {
+      "id" : 0,
+      "title" : "Klasszikus stílusú kandalló márványból",
+      "img" : "Klasszikus stílusú kandalló márványból"
+    },
+    {
+      "id" : 1,
+      "title" : "Klasszikus stílusú kandalló márványból",
+      "img" : "Klasszikus stílusú kandalló márványból"
+    },
+    {
+      "id" : 2,
+      "title" : "Klasszikus stílusú kandalló márványból",
+      "img" : "Klasszikus stílusú kandalló márványból"
+    },
+    {
+      "id" : 3,
+      "title" : "Minimál stílusú modern kandalló mészkőből",
+      "img" : "Minimál stílusú modern kandalló mészkőből"
+    },
+    {
+      "id" : 4,
+      "title" : "Minimál stílusú modern kandalló mészkőből",
+      "img" : "Minimál stílusú modern kandalló mészkőből"
+    },
+    {
+      "id" : 5,
+      "title" : "Minimál stílusú modern kandalló mészkőből",
+      "img" : "Minimál stílusú modern kandalló mészkőből"
+    },
+    {
+      "id" : 6,
+      "title" : "Egyedi tervezésű kandalló River Gold gránitból",
+      "img" : "Egyedi tervezésű kandalló River Gold gránitból"
+    },
+    {
+      "id" : 7,
+      "title" : "Egyedi tervezésű kandalló River Gold gránitból",
+      "img" : "Egyedi tervezésű kandalló River Gold gránitból"
+    },
+    {
+      "id" : 8,
+      "title" : "Egyedi tervezésű kandalló River Gold gránitból",
+      "img" : "Egyedi tervezésű kandalló River Gold gránitból"
+    },
+    {
+      "id" : 9,
+      "title" : "Egyedi tervezésű kandalló River Gold gránitból",
+      "img" : "Egyedi tervezésű kandalló River Gold gránitból"
+    }
+  ],
+  "Epiteszet-padloburkolat" : [
+    {
+      "id" : 0,
+      "title" : "Klasszikus gránit padlóburkolat",
+      "img" : "Klasszikus gránit padlóburkolat"
+    },
+    {
+      "id" : 1,
+      "title" : "Klasszikus gránit padlóburkolat",
+      "img" : "Klasszikus gránit padlóburkolat"
+    },
+    {
+      "id" : 2,
+      "title" : "Tervezett minta szerinti gránit padlóburkolat",
+      "img" : "Tervezett minta szerinti gránit padlóburkolat"
+    },
+    {
+      "id" : 3,
+      "title" : "Speciális rajzolatú nagyméretű gránit padlóburkolat",
+      "img" : "Speciális rajzolatú nagyméretű gránit padlóburkolat"
+    },
+    {
+      "id" : 4,
+      "title" : "Tervezett minta szerinti gránit padlóburkolat",
+      "img" : "Tervezett minta szerinti gránit padlóburkolat"
+    },
+    {
+      "id" : 5,
+      "title" : "Klasszikus gránit padlóburkolat",
+      "img" : "Klasszikus gránit padlóburkolat"
+    }
+  ],
+  "Epiteszet-kulteriburkolat" : [
+    {
+      "id" : 0,
+      "title" : "Buff Grey Quartzite matt felületű kültéri soros burkolat nagy méretű lapokból",
+      "img" : "Buff Grey Quartzite matt felületű kültéri soros burkolat nagy méretű lapokból"
+    },
+    {
+      "id" : 1,
+      "title" : "Durva antikolt gyémántkefélt felületű Steel Grey gránit kültéri burkolat szabályos méretű lapokból",
+      "img" : "Durva antikolt gyémántkefélt felületű Steel Grey gránit kültéri burkolat szabályos méretű lapokból"
+    },
+    {
+      "id" : 2,
+      "title" : "Égetett felületű Bianco Kinawa gránit kültéri burkolat egyedi lapkiosztással",
+      "img" : "Égetett felületű Bianco Kinawa gránit kültéri burkolat egyedi lapkiosztással"
+    },
+    {
+      "id" : 3,
+      "title" : "Égetett felületű Impala Light gránit kültéri burkolat egyedi lapkiosztással",
+      "img" : "Égetett felületű Impala Light gránit kültéri burkolat egyedi lapkiosztással"
+    },
+    {
+      "id" : 4,
+      "title" : "Impala és Rosa Beta gránit kültéri burkolat égetett felülettel",
+      "img" : "Impala és Rosa Beta gránit kültéri burkolat égetett felülettel"
+    },
+    {
+      "id" : 5,
+      "title" : "Jura Gelb mészkő mattcsiszolt felülettel kültéri burkolat",
+      "img" : "Jura Gelb mészkő mattcsiszolt felülettel kültéri burkolat"
+    },
+    {
+      "id" : 6,
+      "title" : "Jura kevert Jura Beige Jura Grau Jura erezett mészkő kültéri matt felületű burkolat",
+      "img" : "Jura kevert Jura Beige Jura Grau Jura erezett mészkő kültéri matt felületű burkolat"
+    },
+    {
+      "id" : 7,
+      "title" : "Matt felületű Jura Grau mészkő kültéri burkolat soros lapkiosztással",
+      "img" : "Matt felületű Jura Grau mészkő kültéri burkolat soros lapkiosztással"
+    },
+    {
+      "id" : 8,
+      "title" : "Royal Mahogany gránit égetett felületű burkolat és lekerekített szegélykő",
+      "img" : "Royal Mahogany gránit égetett felületű burkolat és lekerekített szegélykő"
+    },
+    {
+      "id" : 9,
+      "title" : "Royal Mahogany gránit égetett felületű burkolat és lekerekített szegélykő",
+      "img" : "Royal Mahogany gránit égetett felületű burkolat és lekerekített szegélykő"
+    }
+  ],
+  "Epiteszet-homlokzatburkolat" : [
+    {
+      "id" : 0,
+      "title" : "Crema Marfil mészkő homlokzat falburkolat",
+      "img" : "Crema Marfil mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 1,
+      "title" : "Giallo SF Real GM gránit homlokzat falburkolat",
+      "img" : "Giallo SF Real GM gránit homlokzat falburkolat"
+    },
+    {
+      "id" : 2,
+      "title" : "Giallo SF Real MM gránit homlokzat falburkolat",
+      "img" : "Giallo SF Real MM gránit homlokzat falburkolat"
+    },
+    {
+      "id" : 3,
+      "title" : "Jura Beige mészkő homlokzat falburkolat",
+      "img" : "Jura Beige mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 4,
+      "title" : "Jura erezett mészkő homlokzat falburkolat",
+      "img" : "Jura erezett mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 5,
+      "title" : "Jura Gold mészkő homlokzat falburkolat",
+      "img" : "Jura Gold mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 6,
+      "title" : "Jura kevert mészkő homlokzat falburkolat",
+      "img" : "Jura kevert mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 7,
+      "title" : "King Beige mészkő homlokzat falburkolat és ablakkeret",
+      "img" : "King Beige mészkő homlokzat falburkolat és ablakkeret"
+    },
+    {
+      "id" : 8,
+      "title" : "King Beige mészkő homlokzat falburkolat és ajtókeret",
+      "img" : "King Beige mészkő homlokzat falburkolat és ajtókeret"
+    },
+    {
+      "id" : 9,
+      "title" : "Travertino Classico és Noce Cut Római Travertin mészkő homlokzat falburkolat",
+      "img" : "Travertino Classico és Noce Cut Római Travertin mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 10,
+      "title" : "Travertino Silver mészkő homlokzat falburkolat",
+      "img" : "Travertino Silver mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 11,
+      "title" : "Jura Gelb mészkő pillér oszlopburkolat",
+      "img" : "Jura Gelb mészkő pillér oszlopburkolat"
+    },
+    {
+      "id" : 12,
+      "title" : "Jura Gelb mészkő homlokzat falburkolat",
+      "img" : "Jura Gelb mészkő homlokzat falburkolat"
+    },
+    {
+      "id" : 13,
+      "title" : "Jura Gelb mészkő íves homlokzat falburkolat",
+      "img" : "Jura Gelb mészkő íves homlokzat falburkolat"
+    }
+  ],
+  "Epiteszet-medenceszegelyko" : [
+    {
+      "id" : 0,
+      "title" : "Jura Gelb medence szegélykő",
+      "img" : "Jura Gelb medence szegélykő"
+    },
+    {
+      "id" : 1,
+      "title" : "Jura Grau medence szegélykő",
+      "img" : "Jura Grau medence szegélykő"
+    },
+    {
+      "id" : 2,
+      "title" : "Jura Grau tipegő és medence szegélykő",
+      "img" : "Jura Grau tipegő és medence szegélykő"
+    },
+    {
+      "id" : 3,
+      "title" : "King Beige medence szegélykő",
+      "img" : "King Beige medence szegélykő"
+    }
+  ],
+  "Epiteszet-kobutor" : [
+    {
+      "id" : 0,
+      "title" : "Nero Assoluto India gránit dohányzóasztal",
+      "img" : "Nero Assoluto India gránit dohányzóasztal"
+    },
+    {
+      "id" : 1,
+      "title" : "Nero Assoluto India gránit étkezőasztal",
+      "img" : "Nero Assoluto India gránit étkezőasztal"
+    },
+    {
+      "id" : 2,
+      "title" : "Nero Belfast Extra gránit dohányzóasztal",
+      "img" : "Nero Belfast Extra gránit dohányzóasztal"
+    },
+    {
+      "id" : 3,
+      "title" : "Star Galaxy gránit dohányzóasztal",
+      "img" : "Star Galaxy gránit dohányzóasztal"
+    },
+    {
+      "id" : 4,
+      "title" : "Black Galaxy gránit dohányzóasztal",
+      "img" : "Black Galaxy gránit dohányzóasztal"
+    },
+    {
+      "id" : 5,
+      "title" : "Westberg gránit étkezőasztal",
+      "img" : "Westberg gránit étkezőasztal"
+    },
+    {
+      "id" : 6,
+      "title" : "Olive Green gránit étkezőasztal",
+      "img" : "Olive Green gránit étkezőasztal"
+    },
+    {
+      "id" : 7,
+      "title" : "Olive Green gránit dohányzóasztal",
+      "img" : "Olive Green gránit dohányzóasztal"
+    },
+    {
+      "id" : 8,
+      "title" : "Labrador Emerald Pearl gránit irodai asztal",
+      "img" : "Labrador Emerald Pearl gránit irodai asztal"
+    },
+    {
+      "id" : 9,
+      "title" : "Travertin Carpinis mészkő dohányzóasztal",
+      "img" : "Travertin Carpinis mészkő dohányzóasztal"
+    },
+    {
+      "id" : 10,
+      "title" : "Gránit kerti bútor garnitúra",
+      "img" : "Gránit kerti bútor garnitúra"
+    },
+    {
+      "id" : 11,
+      "title" : "Star Galaxy gránit telefonasztal",
+      "img" : "Star Galaxy gránit telefonasztal"
+    },
+    {
+      "id" : 12,
+      "title" : "Tardosi mészkő asztali lámpa áttört csavart oszloppal",
+      "img" : "Tardosi mészkő asztali lámpa áttört csavart oszloppal"
+    },
+    {
+      "id" : 13,
+      "title" : "Tardosi mészkő álló lámpa áttört csavart oszloppal",
+      "img" : "Tardosi mészkő álló lámpa áttört csavart oszloppal"
+    },
+    {
+      "id" : 14,
+      "title" : "Ruskicai márvány áttört csavart díszoszlop",
+      "img" : "Ruskicai márvány áttört csavart díszoszlop"
+    }
+  ],
+  "Epiteszet-emlekmu" : [
+    {
+      "id" : 0,
+      "title" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly",
+      "img" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly"
+    },
+    {
+      "id" : 1,
+      "title" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly",
+      "img" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly"
+    },
+    {
+      "id" : 2,
+      "title" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly",
+      "img" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly"
+    },
+    {
+      "id" : 3,
+      "title" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly",
+      "img" : "A képen látható Kitelepítési emlékmű Bánvölgyi László szobrász tervei alapján készült, Bóly"
+    },
+    {
+      "id" : 4,
+      "title" : "'56-os emlékmű, Rákoskeresztúr",
+      "img" : "'56-os emlékmű, Rákoskeresztúr"
+    },
+    {
+      "id" : 5,
+      "title" : "'56-os emlékmű, Rákoskeresztúr",
+      "img" : "'56-os emlékmű, Rákoskeresztúr"
+    },
+    {
+      "id" : 6,
+      "title" : "'56-os emlékmű, Pomáz",
+      "img" : "'56-os emlékmű, Pomáz"
+    },
+    {
+      "id" : 7,
+      "title" : "'56-os emlékmű, Pomáz",
+      "img" : "'56-os emlékmű, Pomáz"
+    },
+    {
+      "id" : 8,
+      "title" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér",
+      "img" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér"
+    },
+    {
+      "id" : 9,
+      "title" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér",
+      "img" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér"
+    },
+    {
+      "id" : 10,
+      "title" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér",
+      "img" : "3. Honvéd Huszárezred emlékmű, Szeged, Reök tér"
+    },
+    {
+      "id" : 11,
+      "title" : "Spirál emlékmű, Körmend, Főtér",
+      "img" : "Spirál emlékmű, Körmend, Főtér"
+    },
+    {
+      "id" : 12,
+      "title" : "Spirál emlékmű, Körmend, Főtér",
+      "img" : "Spirál emlékmű, Körmend, Főtér"
+    },
+    {
+      "id" : 13,
+      "title" : "Spirál emlékmű, Körmend, Főtér",
+      "img" : "Spirál emlékmű, Körmend, Főtér"
+    },
+    {
+      "id" : 14,
+      "title" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása",
+      "img" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása"
+    },
+    {
+      "id" : 15,
+      "title" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása",
+      "img" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása"
+    },
+    {
+      "id" : 16,
+      "title" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása",
+      "img" : "A képen látható emlékmű Popovics Lőrinc és Pesti Ferenc szobrászok alkotása"
+    },
+    {
+      "id" : 17,
+      "title" : "A képen látható Jedlik Ányok bronz szobor és kompozíció, Bánvölgyi László szobrász alkotása, Szeged",
+      "img" : "A képen látható Jedlik Ányok bronz szobor és kompozíció, Bánvölgyi László szobrász alkotása, Szeged"
+    },
+    {
+      "id" : 18,
+      "title" : "'56-os emlékmű, Soroksár",
+      "img" : "'56-os emlékmű, Soroksár"
+    },
+    {
+      "id" : 19,
+      "title" : "Iskolai emléktábla, Budapest",
+      "img" : "Iskolai emléktábla, Budapest"
+    },
+    {
+      "id" : 20,
+      "title" : "Szent István emléktábla, a bronzból készült dombormű Zsin Judit szobrászművész alkotása, Szigetszentmiklós",
+      "img" : "Szent István emléktábla, a bronzból készült dombormű Zsin Judit szobrászművész alkotása, Szigetszentmiklós"
+    },
+    {
+      "id" : 21,
+      "title" : "Budapart alapkőletétel, Budapest",
+      "img" : "Budapart alapkőletétel, Budapest"
+    },
+    {
+      "id" : 22,
+      "title" : "Szent István emléktábla, Hatvan",
+      "img" : "Szent István emléktábla, Hatvan"
+    }
+  ],
+  "Epiteszet-szokokut" : [
+    {
+      "id" : 0,
+      "title" : "Szent György bronz lovas szobor és ivókút, Bánvölgyi László szobrász alkotása, Bordány, Főtér",
+      "img" : "Szent György bronz lovas szobor és ivókút, Bánvölgyi László szobrász alkotása, Bordány, Főtér"
+    },
+    {
+      "id" : 1,
+      "title" : "Szent György bronz lovas szobor és ivókút, Bánvölgyi László szobrász alkotása, Bordány, Főtér",
+      "img" : "Szent György bronz lovas szobor és ivókút, Bánvölgyi László szobrász alkotása, Bordány, Főtér"
+    },
+    {
+      "id" : 2,
+      "title" : "Szecessziós ivókút, Szeged, Reök tér",
+      "img" : "Szecessziós ivókút, Szeged, Reök tér"
+    },
+    {
+      "id" : 3,
+      "title" : "Szecessziós ivókút, Szeged, Reök tér",
+      "img" : "Szecessziós ivókút, Szeged, Reök tér"
+    },
+    {
+      "id" : 4,
+      "title" : "Spirál szökőkút, Körmend, Főtér",
+      "img" : "Spirál szökőkút, Körmend, Főtér"
+    },
+    {
+      "id" : 5,
+      "title" : "Spirál szökőkút, Körmend, Főtér",
+      "img" : "Spirál szökőkút, Körmend, Főtér"
+    },
+    {
+      "id" : 6,
+      "title" : "Spirál szökőkút, Körmend, Főtér",
+      "img" : "Spirál szökőkút, Körmend, Főtér"
+    },
+    {
+      "id" : 7,
+      "title" : "Spirál szökőkút, Budapest, telephely, darabokban",
+      "img" : "Spirál szökőkút, Budapest, telephely, darabokban"
+    },
+    {
+      "id" : 8,
+      "title" : "Spirál szökőkút, Budapest, telephely, alakulóban",
+      "img" : "Spirál szökőkút, Budapest, telephely, alakulóban"
+    },
+    {
+      "id" : 9,
+      "title" : "Spirál szökőkút, Budapest, telephely, forráskő",
+      "img" : "Spirál szökőkút, Budapest, telephely, forráskő"
+    },
+    {
+      "id" : 10,
+      "title" : "Spirál szökőkút, Budapest, telephely, látványában",
+      "img" : "Spirál szökőkút, Budapest, telephely, látványában"
+    },
+    {
+      "id" : 11,
+      "title" : "Buborék szökőkút, Répcelak, Főtér",
+      "img" : "Buborék szökőkút, Répcelak, Főtér"
+    },
+    {
+      "id" : 12,
+      "title" : "Buborék szökőkút, Répcelak, Főtér",
+      "img" : "Buborék szökőkút, Répcelak, Főtér"
+    },
+    {
+      "id" : 13,
+      "title" : "Buborék szökőkút, Répcelak, Főtér",
+      "img" : "Buborék szökőkút, Répcelak, Főtér"
+    },
+    {
+      "id" : 14,
+      "title" : "Szökőkút",
+      "img" : "Szökőkút"
+    },
+    {
+      "id" : 15,
+      "title" : "Ivókút",
+      "img" : "Ivókút"
+    }
+  ],
+  "Epiteszet-specialiskotermekek" : [
+    {
+      "id" : 0,
+      "title" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl",
+      "img" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl"
+    },
+    {
+      "id" : 1,
+      "title" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl",
+      "img" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl"
+    },
+    {
+      "id" : 2,
+      "title" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl",
+      "img" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl"
+    },
+    {
+      "id" : 3,
+      "title" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl",
+      "img" : "Speciális gyártó- és mérő eszközökhöz készült gépasztal gránit tömbböl"
+    },
+    {
+      "id" : 4,
+      "title" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló",
+      "img" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló"
+    },
+    {
+      "id" : 5,
+      "title" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló",
+      "img" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló"
+    },
+    {
+      "id" : 6,
+      "title" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló",
+      "img" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló"
+    },
+    {
+      "id" : 7,
+      "title" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló",
+      "img" : "Minimál stílusban készült Black Galaxy gránit mosdókagyló"
+    },
+    {
+      "id" : 8,
+      "title" : "Márványból készült kolombárium",
+      "img" : "Márványból készült kolombárium"
+    },
+    {
+      "id" : 9,
+      "title" : "Gránitból készült 'tüzérségi lövedék'",
+      "img" : "Gránitból készült 'tüzérségi lövedék'"
+    }
   ]
 }
