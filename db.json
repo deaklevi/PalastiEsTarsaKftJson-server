@@ -4143,5 +4143,381 @@
       "description" : "A kőfeldolgozó üzemben elkészített sírkövet a megadott helyszínen fel kell építeni. Az alapozást, minden esetben az adott körülmények, méretek és súlyok határozzák meg. A síremlék helyezését csak megfelelő képzettséggel rendelkező szakemberek tudják precízen elvégezni.",
       "img" : "Síremlék gyártás utolsó fázisa"
     }
+  ],
+  "Epiteszet-konyhapult" : [
+    {
+      "id" : 0,
+      "title" : "Paradiso Classico gránit konyhapult, munkalap",
+      "img" : "Paradiso Classico gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 1,
+      "title" : "Rosso Vanga gránit konyhapult, munkalap",
+      "img" : "Rosso Vanga gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 2,
+      "title" : "Rosa Beta gránit konyhapult, munkalap",
+      "img" : "Rosa Beta gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 3,
+      "title" : "Nero Assoluto Indian gránit konyhapult, munkalap",
+      "img" : "Nero Assoluto Indian gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 4,
+      "title" : "Tiger Skin gránit recepciós pult",
+      "img" : "Tiger Skin gránit recepciós pult"
+    },
+    {
+      "id" : 5,
+      "title" : "Tiger Skin gránit recepciós pult",
+      "img" : "Tiger Skin gránit recepciós pult"
+    },
+    {
+      "id" : 6,
+      "title" : "Nero Africa Impala gránit konyhapult, munkalap",
+      "img" : "Nero Africa Impala gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 7,
+      "title" : "Nero Africa Impala gránit konyhapult, munkalap",
+      "img" : "Nero Africa Impala gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 8,
+      "title" : "Verde San Francisco gránit konyhapult, munkalap",
+      "img" : "Verde San Francisco gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 9,
+      "title" : "Verde San Francisco gránit konyhapult, munkalap",
+      "img" : "Verde San Francisco gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 10,
+      "title" : "Halmstadt gránit kerti konyhapult",
+      "img" : "Halmstadt gránit kerti konyhapult"
+    },
+    {
+      "id" : 11,
+      "title" : "Giallo Veneziano gránit konyhapult, munkalap",
+      "img" : "Giallo Veneziano gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 12,
+      "title" : "Giallo Veneziano gránit konyhapult, munkalap",
+      "img" : "Giallo Veneziano gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 13,
+      "title" : "Verde Laguna gránit konyhapult, munkalap",
+      "img" : "Verde Laguna gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 14,
+      "title" : "Verde Laguna gránit konyhapult, munkalap",
+      "img" : "Verde Laguna gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 15,
+      "title" : "Verde Laguna gránit konyhapult, munkalap",
+      "img" : "Verde Laguna gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 16,
+      "title" : "Verde Laguna gránit konyhapult, munkalap",
+      "img" : "Verde Laguna gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 17,
+      "title" : "Verde Laguna gránit konyhapult, munkalap",
+      "img" : "Verde Laguna gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 18,
+      "title" : "Nero Assoluto Indian gránit konyhapult, munkalap",
+      "img" : "Nero Assoluto Indian gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 19,
+      "title" : "Nero Assoluto Indian gránit konyhapult, munkalap",
+      "img" : "Nero Assoluto Indian gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 20,
+      "title" : "Nero Assoluto Indian gránit konyhapult, munkalap",
+      "img" : "Nero Assoluto Indian gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 21,
+      "title" : "Nero Assoluto Indian gránit konyhapult, munkalap",
+      "img" : "Nero Assoluto Indian gránit konyhapult, munkalap"
+    },
+    {
+      "id" : 22,
+      "title" : "Giallo Veneziano gránit pult",
+      "img" : "Giallo Veneziano gránit pult"
+    }
+  ],
+  "Epiteszet-furdoszobapult" : [
+    {
+      "id" : 0,
+      "title" : "Copacabana gránit fürdőszobapult, Hilton Budapest",
+      "img" : "Copacabana gránit fürdőszobapult, Hilton Budapest"
+    },
+    {
+      "id" : 1,
+      "title" : "Copacabana gránit fürdőszobapult, Hilton Budapest, 3. emelet",
+      "img" : "Copacabana gránit fürdőszobapult, Hilton Budapest, 3. emelet"
+    },
+    {
+      "id" : 2,
+      "title" : "Copacabana gránit fürdőszobapult, Hilton Budapest, 3. emelet",
+      "img" : "Copacabana gránit fürdőszobapult, Hilton Budapest, 3. emelet"
+    },
+    {
+      "id" : 3,
+      "title" : "Copacabana gránit fürdőszobapult, Hilton Budapest",
+      "img" : "Copacabana gránit fürdőszobapult, Hilton Budapest"
+    },
+    {
+      "id" : 4,
+      "title" : "Copacabana gránit fürdőszobapult, Hilton Budapest",
+      "img" : "Copacabana gránit fürdőszobapult, Hilton Budapest"
+    },
+    {
+      "id" : 5,
+      "title" : "Samba gránit fürdőszobapult, Hilton Budapest",
+      "img" : "Samba gránit fürdőszobapult, Hilton Budapest"
+    },
+    {
+      "id" : 6,
+      "title" : "Schöderhamn gránit közösségi mosdók, Hilton Budapest",
+      "img" : "Schöderhamn gránit közösségi mosdók, Hilton Budapest"
+    },
+    {
+      "id" : 7,
+      "title" : "Brazulite gránit közösségi mosdók, Hilton Budapest",
+      "img" : "Brazulite gránit közösségi mosdók, Hilton Budapest"
+    },
+    {
+      "id" : 8,
+      "title" : "Schöderhamn gránit közösségi mosdók, Hilton Budapest",
+      "img" : "Schöderhamn gránit közösségi mosdók, Hilton Budapest"
+    },
+    {
+      "id" : 9,
+      "title" : "Azul Bahia gránit fürdőszobapult, Hilton Budapest, elnöki lakosztály",
+      "img" : "Azul Bahia gránit fürdőszobapult, Hilton Budapest, elnöki lakosztály"
+    },
+    {
+      "id" : 10,
+      "title" : "Via Lattea gránit mosdópult",
+      "img" : "Via Lattea gránit mosdópult"
+    },
+    {
+      "id" : 11,
+      "title" : "Labrador Blue LGHQ gránit fürdőszobapult",
+      "img" : "Labrador Blue LGHQ gránit fürdőszobapult"
+    },
+    {
+      "id" : 12,
+      "title" : "Nero Assoluto India gránit fürdőkád körüli burkolat",
+      "img" : "Nero Assoluto India gránit fürdőkád körüli burkolat"
+    },
+    {
+      "id" : 13,
+      "title" : "Jura Beige mészkő fürdőkád körüli burkolat",
+      "img" : "Jura Beige mészkő fürdőkád körüli burkolat"
+    },
+    {
+      "id" : 14,
+      "title" : "Azul Bahia gránit fürdőkád körüli díszburkolat, Hilton Budapest, elnöki lakosztály",
+      "img" : "Azul Bahia gránit fürdőkád körüli díszburkolat, Hilton Budapest, elnöki lakosztály"
+    },
+    {
+      "id" : 15,
+      "title" : "Giallo Veneziano gránit fürdőszobapult",
+      "img" : "Giallo Veneziano gránit fürdőszobapult"
+    },
+    {
+      "id" : 16,
+      "title" : "Via Lattea gránit fürdőkád körüli burkolat és díszhomlokzat",
+      "img" : "Via Lattea gránit fürdőkád körüli burkolat és díszhomlokzat"
+    },
+    {
+      "id" : 17,
+      "title" : "Azul Bahia gránit fürdőkád körüli díszburkolat, Hilton Budapest, elnöki lakosztály",
+      "img" : "Azul Bahia gránit fürdőkád körüli díszburkolat, Hilton Budapest, elnöki lakosztály"
+    }
+  ],
+  "Epiteszet-lepcsoburkolat" : [
+    {
+      "id" : 0,
+      "title" : "Nilo River gránit íves lépcsőburkolat",
+      "img" : "Nilo River gránit íves lépcsőburkolat"
+    },
+    {
+      "id" : 1,
+      "title" : "Silver Star gránit lépcsőburkolat",
+      "img" : "Silver Star gránit lépcsőburkolat"
+    },
+    {
+      "id" : 2,
+      "title" : "Silver Star gránit lépcsőburkolat",
+      "img" : "Silver Star gránit lépcsőburkolat"
+    },
+    {
+      "id" : 3,
+      "title" : "Silver Star gránit lépcsőburkolat",
+      "img" : "Silver Star gránit lépcsőburkolat"
+    },
+    {
+      "id" : 4,
+      "title" : "Nero Assoluto India gránit lépcsőburkolat",
+      "img" : "Nero Assoluto India gránit lépcsőburkolat"
+    },
+    {
+      "id" : 5,
+      "title" : "Nero Assoluto India gránit lépcsőburkolat",
+      "img" : "Nero Assoluto India gránit lépcsőburkolat"
+    },
+    {
+      "id" : 6,
+      "title" : "Nero Assoluto India gránit lépcsőburkolat",
+      "img" : "Nero Assoluto India gránit lépcsőburkolat"
+    },
+    {
+      "id" : 7,
+      "title" : "Nero Assoluto India gránit lépcsőburkolat",
+      "img" : "Nero Assoluto India gránit lépcsőburkolat"
+    },
+    {
+      "id" : 8,
+      "title" : "Rosso Verona márvány lépcsőburkolat",
+      "img" : "Rosso Verona márvány lépcsőburkolat"
+    },
+    {
+      "id" : 9,
+      "title" : "Monaco gránit lépcsőburkolat",
+      "img" : "Monaco gránit lépcsőburkolat"
+    },
+    {
+      "id" : 10,
+      "title" : "Silver Star gránit lépcsőburkolat",
+      "img" : "Silver Star gránit lépcsőburkolat"
+    },
+    {
+      "id" : 11,
+      "title" : "Verde Marina gránit kőlépcső",
+      "img" : "Verde Marina gránit kőlépcső"
+    },
+    {
+      "id" : 12,
+      "title" : "Nero Assoluto India gránit lépcsőburkolat",
+      "img" : "Nero Assoluto India gránit lépcsőburkolat"
+    },
+    {
+      "id" : 13,
+      "title" : "Silver Star gránit lépcsőburkolat",
+      "img" : "Silver Star gránit lépcsőburkolat"
+    },
+    {
+      "id" : 14,
+      "title" : "Jura Gelb mészkő lépcsőburkolat",
+      "img" : "Jura Gelb mészkő lépcsőburkolat"
+    },
+    {
+      "id" : 15,
+      "title" : "Bianco Tarn gránit ívesre fazonozott durva felületű tömb kőlépcső",
+      "img" : "Bianco Tarn gránit ívesre fazonozott durva felületű tömb kőlépcső"
+    },
+    {
+      "id" : 16,
+      "title" : "Blue Stone tömb kőlépcső szakított faragott oldallal homokszórt antikolt felülettel",
+      "img" : "Blue Stone tömb kőlépcső szakított faragott oldallal homokszórt antikolt felülettel"
+    },
+    {
+      "id" : 17,
+      "title" : "Buff Grey kvarcit tömb kőlépcső és burkolat",
+      "img" : "Buff Grey kvarcit tömb kőlépcső és burkolat"
+    },
+    {
+      "id" : 18,
+      "title" : "Jura Gelb mészkő tömb kőlépcső mattcsiszolt felülettel",
+      "img" : "Jura Gelb mészkő tömb kőlépcső mattcsiszolt felülettel"
+    },
+    {
+      "id" : 19,
+      "title" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel",
+      "img" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel"
+    },
+    {
+      "id" : 20,
+      "title" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel",
+      "img" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel"
+    },
+    {
+      "id" : 21,
+      "title" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel",
+      "img" : "Royal Mahogany gránit lépcsőburkolat égetett flammolt felülettel"
+    },
+    {
+      "id" : 22,
+      "title" : "Rosa Beta belépő és Nero Impala homlok gránit lépcsőburkolat",
+      "img" : "Rosa Beta belépő és Nero Impala homlok gránit lépcsőburkolat"
+    },
+    {
+      "id" : 23,
+      "title" : "Impala Light gránit lépcsőburkolat antikolt gyémántkefélt felülettel",
+      "img" : "Impala Light gránit lépcsőburkolat antikolt gyémántkefélt felülettel"
+    },
+    {
+      "id" : 24,
+      "title" : "Nero Impala gránit lépcsőburkolat mattcsiszolt felülettel",
+      "img" : "Nero Impala gránit lépcsőburkolat mattcsiszolt felülettel"
+    },
+    {
+      "id" : 25,
+      "title" : "Jura Gelb mészkő lépcsőburkolat",
+      "img" : "Jura Gelb mészkő lépcsőburkolat"
+    },
+    {
+      "id" : 26,
+      "title" : "Jura Gelb mészkő lépcsőburkolat",
+      "img" : "Jura Gelb mészkő lépcsőburkolat"
+    },
+    {
+      "id" : 27,
+      "title" : "Rosa Beta gránit könnyűszerkezetes tömb kőlépcső mattcsiszolt felülettel",
+      "img" : "Rosa Beta gránit könnyűszerkezetes tömb kőlépcső mattcsiszolt felülettel"
+    },
+    {
+      "id" : 28,
+      "title" : "Rosa Porrino gránit könnyűszerkezetes tömb kőlépcső antikolt gyémántkefélt felülettel",
+      "img" : "Rosa Porrino gránit könnyűszerkezetes tömb kőlépcső antikolt gyémántkefélt felülettel"
+    },
+    {
+      "id" : 29,
+      "title" : "Silver Star gránit könnyűszerkezetes tömb kőlépcső mattcsiszolt felülettel",
+      "img" : "Silver Star gránit könnyűszerkezetes tömb kőlépcső mattcsiszolt felülettel"
+    },
+    {
+      "id" : 30,
+      "title" : "Rosa Beta tömb kőlépcső égetett flammolt felülettel szakított sprengelt oldallal ívesen kialakítva",
+      "img" : "Rosa Beta tömb kőlépcső égetett flammolt felülettel szakított sprengelt oldallal ívesen kialakítva"
+    },
+    {
+      "id" : 31,
+      "title" : "Silver Star gránit tömb kőlépcső és burkolat mattcsiszolt felülettel",
+      "img" : "Silver Star gránit tömb kőlépcső és burkolat mattcsiszolt felülettel"
+    },
+    {
+      "id" : 32,
+      "title" : "Supergrey gránit tömb kőlépcső nyers durva felülettel",
+      "img" : "Supergrey gránit tömb kőlépcső nyers durva felülettel"
+    }
   ]
 }
